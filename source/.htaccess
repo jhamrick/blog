@@ -6,6 +6,10 @@ RewriteCond %{HTTP_HOST} ^jesshamrick.com [NC]
 RewriteRule ^(.*)$ http://www.jesshamrick.com/$1 [L,R=301]
 
 RewriteCond %{HTTP_HOST} ^www.jesshamrick.com [NC]
+RewriteRule ^feed/?$ http://www.jesshamrick.com/atom.xml
+RewriteRule ^(.*)/feed/?$ http://www.jesshamrick.com/$1/atom.xml
+RewriteRule ^(.*)/feed/atom/?$ http://www.jesshamrick.com/$1/atom.xml
+RewriteRule ^(.*)/feed/rss/?$ http://www.jesshamrick.com/$1/atom.xml
 RewriteRule ^wp-content/uploads/2011/05/jessica-hamrick-resume.pdf$ http://www.jesshamrick.com/jessica-hamrick-cv.pdf [L,R=301]
 RewriteRule ^wp-content/uploads/\d{4}/\d{2}/(.*\.pdf)$ http://www.jesshamrick.com/publications/pdf/$1 [L,R=301]
 RewriteRule ^publications/abstract-(.*/?)$ http://www.jesshamrick.com/publications/abstracts/$1 [L,R=301]
