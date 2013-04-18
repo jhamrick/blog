@@ -1,8 +1,20 @@
 require 'bundler/setup'
 require 'sinatra/base'
+require 'rack-rewrite'
 
 # The project root directory
 $root = ::File.dirname(__FILE__)
+
+use Rack::Rewrite do
+    r301 %r{^/wp-content/uploads/2011/05/jess-meng-thesis.pdf$}, '/publications/pdf/jess-meng-thesis.pdf'
+    r301 %r{^/wp-content/uploads/2011/05/cogsci2011.pdf$}, '/publications/pdf/cogsci2011.pdf'
+    r301 %r{^/wp-content/uploads/2012/05/HamrBattTene12VSS.pdf$}, '/publications/pdf/HamrBattTene12VSS.pdf'
+    r301 %r{^/wp-content/uploads/2011/05/jhamrick-cogsci2011-slides.pdf$}, '/publications/pdf/jhamrick-cogsci2011-slides.pdf'
+    r301 %r{^/wp-content/uploads/2011/05/jessica-hamrick-resume.pdf$}, '/jessica-hamrick-cv.pdf'
+    r301 %r{^/publications/abstract-physical-reasoning-in-complex-scenes-is-sensitive-to-mass/?$}, '/publications/abstracts/physical-reasoning-in-complex-scenes-is-sensitive-to-mass'
+    r301 %r{^/publications/abstract-internal-physics-models-guide-probabilistic-judgments-about-object-dynamics/?$}, '/publications/abstracts/internal-physics-models-guide-probabilistic-judgments-about-object-dynamics'
+
+end
 
 class SinatraStaticServer < Sinatra::Base
 
