@@ -33,7 +33,8 @@ source: source
 destination: public
 plugins: plugins
 code_dir: downloads/code
-category_dir: blog/categories
+category_dir: category
+tag_dir: tag
 markdown: rdiscount
 pygments: false # default python pygments have been replaced by pygments.rb
 
