@@ -36,6 +36,8 @@ what encoding any particular dataset is in, let along the format of
 the data itself, and it means I end up writing and rewriting code to
 do saving, loading, parsing, etc., more times than I ought to.
 
+<!-- more -->
+
 I realize there are libraries like
 [SQLAlchemy](http://www.sqlalchemy.org/), but this is actually a bit
 *too* powerful for what I want. I want something simple and easy to
