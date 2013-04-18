@@ -99,11 +99,13 @@ module Jekyll
       self.pages << index
 
       # Create an Atom-feed for each index.
-      feed = TagFeed.new(self, self.source, tag_dir, tag)
-      feed.render(self.layouts, site_payload)
-      feed.write(self.dest)
-      # Record the fact that this page has been added, otherwise Site::cleanup will remove it.
-      self.pages << feed
+      if self.config['tag_feeds']
+        feed = TagFeed.new(self, self.source, tag_dir, tag)
+        feed.render(self.layouts, site_payload)
+        feed.write(self.dest)
+        # Record the fact that this page has been added, otherwise Site::cleanup will remove it.
+        self.pages << feed
+      end
     end
 
     # Loops through the list of tag pages and processes each one.
