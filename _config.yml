@@ -63,7 +63,7 @@ default_asides: [asides/recent_posts.html, asides/twitter.html, asides/github.ht
 # Github repositories
 github_user: jhamrick
 github_repo_count: 3
-github_show_profile_link: true
+github_show_profile_link: false
 github_skip_forks: true
 
 # Twitter

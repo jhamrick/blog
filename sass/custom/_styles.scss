@@ -1,105 +1,82 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
 
+@import "mixins";
+
+/* *******************************
+   * Overrides base/_layout.scss *
+   ******************************* */
+
 body {
-    font-size: 1em;
+    font-size: .8em;
+    > header {
+	margin-bottom: .7em;
+    }
 }
 
-article header {
-    margin-top: 0;
-    padding-top: 0;
-    margin-bottom: 1em;
+/* ***********************************
+   * Overrides base/_typography.scss *
+   *********************************** */
+
+ul, ol { &, ul, ol { margin-left: 2.5em; }}
+
+article blockquote {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    p {
+	margin-bottom: 0;
+    }
 }
 
-article header p.meta {
-    position: relative;
-    padding-top: 1em;
+/* *********************************
+   * Overrides partials/_blog.scss *
+   ********************************* */
+
+article {
+    header {
+	margin-top: 0;
+	padding-top: 0;
+	margin-bottom: 1em;
+	p {
+	    &.meta {
+		position: relative;
+		padding-top: 1em;
+	    }
+	}
+    }
 }
 
-ul, ol, {
-    margin-left: 2.5em;
-}
+/* ***************************************
+   * Overrides partials/_navigation.scss *
+   *************************************** */
 
-body>nav {
+body > nav {
     position: fixed;
     right: 0;
     left: 0;
     z-index: 1050;
     margin-bottom: 0;
-    font-size: 1.25em;
+
+    @media only screen and (min-width: 550px) {
+	font-size: 1.25em;
+	li + li {
+	    border-left: none;
+	    a {
+		border-left: none;
+	    }
+	}
+    }
 }
 
-body>header {
-    padding-top: .35em;
-    margin-bottom: .7em;
-    background: rgba(255, 255, 255, 0.0);
-}
-
-html {
-    background: rgba(255, 255, 200, 0.5) url('/images/line-tile.png') top left;
-    background-attachment: fixed;
-}
-
-body>div, body>div>div {
-    background: rgba(255, 255, 255, 0);
-}
+/* *****************************************
+   * Overrides partials/sidebar/_base.scss *
+   ***************************************** */
 
 aside.sidebar {
-    background: rgba(200, 200, 200, 0.5);
-    text-shadow: none;
+    section {
+	margin-bottom: 2em;
+    }
+    li {
+	padding-left: 0.5em;
+    }
 }
-
-aside.sidebar a {
-    text-decoration: none;
-    transition: none;
-}
-
-aside.sidebar li, aside.sidebar section h1 {
-    border-bottom: none;
-    box-shadow: none;
-}
-
-#recent_posts li, #category-list li {
-    padding: 0.25em;
-    padding-left: 0.5em;
-}
-
-#gh_repos li {
-    padding-left: 0.5em;
-}
-
-#twitter-widget-0 {
-    padding-left: 0.5em;
-}
-
-#gh_repos a {
-    font-weight: bold;
-}
-
-#content {
-    background: rgba(200, 225, 255, 0.5);
-}
-
-body>nav li+li, body>nav li+li a {
-    border-left: 0px;
-}
-
-a:visited {
-    color: #1863a1;
-}
-
-article blockquote {
-    background-color: rgba(0, 130, 255, 0.15);
-    padding-top: 0.5em;
-    padding-bottom: 0.5em;
-}
-
-article blockquote p {
-    margin-bottom: 0;
-}
-
-aside.sidebar section.first h1 {
-    margin-top: 0.5em;
-}
-
-@import "mixins";
