@@ -1,5 +1,5 @@
 ---
-title: 'Absolute Beginner&#8217;s Guide to Emacs'
+title: 'Absolute Beginner&#39;s Guide to Emacs'
 layout: post
 permalink: /2012/09/10/absolute-beginners-guide-to-emacs/
 comments: true
@@ -9,9 +9,9 @@ categories:
   - Software
 tags:
   - emacs
-  - software
   - technology
   - tutorial
+  - guide
 ---
 
 I've been using Emacs () as my primary text editor for several years

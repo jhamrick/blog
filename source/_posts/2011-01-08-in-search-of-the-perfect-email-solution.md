@@ -12,7 +12,6 @@ tags:
   - gpg
   - imap
   - offlineimap
-  - software
   - sup
   - technology
   - thunderbird

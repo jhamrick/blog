@@ -10,10 +10,9 @@ tags:
   - for loops
   - list comprehensions
   - numpy
-  - programming
   - python
   - scientific programming
-  - software
+  - code
 ---
 
 I almost exclusively use Python in my research. I write 3D

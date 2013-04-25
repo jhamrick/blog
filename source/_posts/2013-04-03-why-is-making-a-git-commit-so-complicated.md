@@ -10,9 +10,8 @@ categories:
   - Software
 tags:
   - education
+  - teaching
   - git
-  - programming
-  - software
   - version control
 ---
 

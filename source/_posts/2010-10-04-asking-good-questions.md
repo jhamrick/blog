@@ -5,12 +5,12 @@ permalink: /2010/10/04/asking-good-questions/
 comments: true
 categories:
   - General
+  - Programming
+  - Software
 tags:
-  - computer science
-  - hackers
+  - hacking
   - internet
-  - software
-  - tech
+  - teaching
 ---
 
 A few months ago, I blogged about [problems in the hacker world][1].

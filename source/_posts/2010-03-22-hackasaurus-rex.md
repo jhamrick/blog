@@ -5,12 +5,13 @@ comments: true
 permalink: /2010/03/22/hackasaurus-rex/
 categories:
   - SIPB
+  - Programming
+  - Software
 tags:
   - gutenbach
   - hackathon
   - MITeX
   - SIPB
-  - software
 ---
 
 [![][1]][2] This past weekend, [SIPB][2] held a [hackathon][3] (an

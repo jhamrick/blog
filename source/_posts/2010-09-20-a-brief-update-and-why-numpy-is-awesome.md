@@ -6,13 +6,8 @@ comments: true
 categories:
   - Programming
 tags:
-  - classes
   - numpy
-  - pika
   - python
-  - SIPB
-  - software
-  - UROP
 ---
 
 Wow, things are crazy. Classes and the rest of my responsibilities

@@ -11,17 +11,15 @@ categories:
   - Programming
   - Software
 tags:
-  - computer science
   - emacs
   - matlab
   - numpy
-  - programming
   - python
+  - ipython
   - scientific programming
-  - software
-  - tech
   - technology
   - tutorial
+  - guide
 ---
 
 As I mentioned in last week's post, I am a heavy Emacs user and find

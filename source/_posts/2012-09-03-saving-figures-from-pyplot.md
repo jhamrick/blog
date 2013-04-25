@@ -9,10 +9,10 @@ tags:
   - berkeley
   - matplotlib
   - numpy
-  - programming
   - pyplot
   - python
   - scientific programming
+  - code
 ---
 
 Well, it has been a while since I've posted. Over the summer I moved

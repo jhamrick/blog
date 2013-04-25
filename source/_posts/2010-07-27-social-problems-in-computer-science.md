@@ -5,17 +5,14 @@ permalink: /2010/07/27/social-problems-in-computer-science/
 comments: true
 categories:
   - General
+  - Programming
+  - Software
 tags:
-  - attitudes
   - computer science
   - elitism
-  - hackers
-  - MIT
-  - sexism
-  - SIPB
-  - tech
-  - technology
-  - women
+  - hacking
+  - teaching
+  - education
 ---
 
 This morning, I read a [blog post][1] about women in computer science

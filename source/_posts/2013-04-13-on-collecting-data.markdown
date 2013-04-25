@@ -15,6 +15,7 @@ tags:
   - scientific programming
   - experiment
   - data
+  - code
 ---
 
 When collecting data, how do you save it?

@@ -11,9 +11,9 @@ tags:
   - classes
   - inheritance
   - instances
-  - programming
   - python
   - tutorial
+  - guide
 ---
 
 **If you would like a copy of the code used in this post, you can

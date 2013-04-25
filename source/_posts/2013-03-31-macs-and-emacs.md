@@ -8,12 +8,14 @@ dsq_thread_id:
 categories:
   - Software
 tags:
-  - computer science
   - emacs
-  - programming
-  - software
-  - tech
   - technology
+  - OS X
+  - homebrew
+  - cocoa
+  - python
+  - ipython
+  - ipython notebook
 ---
 
 In my [last post][1], I talked about how to set up Emacs as a Python
@@ -77,7 +79,7 @@ using bash aliases. You can add something like the following to your
 ~/.bash_profile:
 
 ```bash
-if [ $(uname -s) == "Darwin" ]; then 
+if [ $(uname -s) == "Darwin" ]; then
     alias ls='gls'
 fi
 ```

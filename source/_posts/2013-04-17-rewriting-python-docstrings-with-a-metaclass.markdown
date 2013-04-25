@@ -11,6 +11,8 @@ tags:
   - inheritance
   - metaclass
   - docstring
+  - hacking
+  - code
 ---
 
 Today, I found myself in a situation where I had a few different
