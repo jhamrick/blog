@@ -8,7 +8,7 @@ sharing: false
 #### Papers and Conference Proceedings
 
 *   Battaglia P. W., Hamrick J. B., Tenenbaum J. B. Simulation as an engine of physical scene understanding. Submitted.
-*   Abbott J. T., Hamrick J. B., Griffiths T. L. (2013). Approximating Bayesian inference with a sparse distributed memory system. In M. Knauff, M. Pauen, N. Sebanz, & I. Wachsmuth (Eds.), *Proceedings of the 35th Annual Conference of the Cognitive Science Society.* Austin, TX: Cognitive Science Society.
+*   Abbott J. T., Hamrick J. B., Griffiths T. L. (2013). Approximating Bayesian inference with a sparse distributed memory system. In M. Knauff, M. Pauen, N. Sebanz, & I. Wachsmuth (Eds.), *Proceedings of the 35th Annual Conference of the Cognitive Science Society.* Austin, TX: Cognitive Science Society. [[abstract][13]] [[PDF][14]]
 *   Hamrick J. B. (2012). Physical reasoning in complex scenes is sensitive to mass. M.Eng. thesis, Massachusetts Institute of Technology, Cambridge, MA. [[abstract][2]] [[PDF][3]]
 *   Hamrick J. B., Battaglia P. W., Tenenbaum J. B. (2011). Internal physics models guide probabilistic judgments about object dynamics. In L. Carlson, C. H&#246;lscher, & T. Shipley (Eds.), *Proceedings of the 33rd Annual Conference of the Cognitive Science Society.* Austin, TX: Cognitive Science Society. [[abstract][4]] [[PDF][5]]
 
@@ -16,6 +16,8 @@ sharing: false
  [3]: /publications/pdf/Hamrick2012-Physical_Reasoning_in_Complex_Scen.pdf
  [4]: /publications/abstracts/Hamrick2011-Internal_physics_models_guide_prob/
  [5]: /publications/pdf/Hamrick2011-Internal_physics_models_guide_prob.pdf
+ [13]: /publications/abstracts/Abbott2013-Approximating_Bayesian_inference_wi/
+ [14]: /publications/pdf/Abbott2013-Approximating_Bayesian_inference_wi.pdf
 
 #### Presentations
 
