@@ -8,58 +8,69 @@ sharing: false
 #### Papers and Conference Proceedings
 
 * Battaglia P. W., Hamrick J. B., & Tenenbaum J. B. Simulation as an
-    engine of physical scene understanding. Submitted.
+engine of physical scene understanding. Submitted.
+  
 * Abbott J. T., Hamrick J. B., & Griffiths T. L. (2013). Approximating
-    Bayesian inference with a sparse distributed memory system. In
-    M. Knauff, M. Pauen, N. Sebanz, & I. Wachsmuth (Eds.),
-    *Proceedings of the 35th Annual Conference of the Cognitive
-    Science Society.* Austin, TX: Cognitive Science
-    Society. [[abstract][13]] [[pdf][14]]
+Bayesian inference with a sparse distributed memory system. In M.
+Knauff, M. Pauen, N. Sebanz, & I. Wachsmuth (Eds.), *Proceedings of
+the 35th Annual Conference of the Cognitive Science Society.* Austin,
+TX: Cognitive Science Society.  
+[[abstract][13]] [[pdf][14]]
+
 * Hamrick J. B. (2012). Physical reasoning in complex scenes is
-    sensitive to mass. M.Eng. thesis, Massachusetts Institute of
-    Technology, Cambridge, MA. [[abstract][2]] [[pdf][3]]
+sensitive to mass. M.Eng. thesis, Massachusetts Institute of
+Technology, Cambridge, MA.  
+[[abstract][2]] [[pdf][3]]
+
 * Hamrick J. B., Battaglia P. W., & Tenenbaum J. B. (2011). Internal
-    physics models guide probabilistic judgments about object
-    dynamics. In L. Carlson, C. H&#246;lscher, & T. Shipley (Eds.),
-    *Proceedings of the 33rd Annual Conference of the Cognitive
-    Science Society.* Austin, TX: Cognitive Science
-    Society. [[abstract][4]] [[pdf][5]]
+physics models guide probabilistic judgments about object dynamics. In L.
+Carlson, C. H&#246;lscher, & T. Shipley (Eds.), *Proceedings of the
+33rd Annual Conference of the Cognitive Science Society.* Austin, TX:
+Cognitive Science Society.  
+[[abstract][4]] [[pdf][5]]
 
 #### Presentations
 
 ##### Upcoming
 
-* Hamrick, J. B., Battaglia, P. W., Griffiths, T. L., & Tenenbaum,
-  J. B. (2013). Inferring mass in complex physical scenes via
-  probabilistic simulation. Talk to be presented at the 46th Annual
-  Meeting of the Society of Mathematical Psychology, Potsdam,
-  Germany. [[abstract][15]]
+* Hamrick, J. B., Battaglia, P. W., Griffiths, T. L., & Tenenbaum, J. B. (2013).
+Inferring mass in complex physical scenes via probabilistic
+simulation. Talk to be presented at the 46th Annual Meeting of the
+Society of Mathematical Psychology, Potsdam, Germany.  
+[[abstract][15]]
+
 * Abbott J. T., Hamrick J. B., & Griffiths T. L. (2013,
-  July). Approximating Bayesian inference with a sparse distributed
-  memory system. Poster to be presented at the 35th Annual Conference
-  of the Cognitive Science Society. Berlin, Germany. [[abstract][13]]
+July). Approximating Bayesian inference with a sparse distributed
+memory system. Poster to be presented at the 35th Annual Conference of
+the Cognitive Science Society. Berlin, Germany.  
+[[abstract][13]]
 
 ##### Past
 
 * Battaglia P. W., Hamrick J. B., & Tenenbaum J. B. (2012,
-    May). Intuitive mechanics in visual reasoning about complex scenes
-    with unknown forces. Presented by P. W. Battaglia at the Annual
-    Meeting of the Vision Sciences Society. Naples,
-    FL. [[abstract][6]] [[poster][7]]
+May). Intuitive mechanics in visual reasoning about complex scenes
+with unknown forces. Presented by P. W. Battaglia at the Annual
+Meeting of the Vision Sciences Society. Naples, FL.  
+[[abstract][6]] [[poster][7]]
+
 * Hamrick J. B., Battaglia P. W., & Tenenbaum J. B. (2012,
-    May). Physics knowledge aids object perception in dynamic
-    scenes. Presented by J. B. Hamrick at the Annual Meeting of the
-    Vision Sciences Society. Naples, FL. [[abstract][8]] [[poster][9]]
+May). Physics knowledge aids object perception in dynamic
+scenes. Presented by J. B. Hamrick at the Annual Meeting of the Vision
+Sciences Society. Naples, FL.  
+[[abstract][8]] [[poster][9]]
+
 * Hamrick J. B., Battaglia P. W., & Tenenbaum J. B. (2011,
-    July). Internal physics models guide probabilistic judgments about
-    object dynamics. Presented by J. B. Hamrick at the 33rd Annual
-    Conference of the Cognitive Science Society. Boston,
-    MA. [[abstract][4]] [[slides][10]]
+July). Internal physics models guide probabilistic judgments about
+object dynamics. Presented by J. B. Hamrick at the 33rd Annual
+Conference of the Cognitive Science Society. Boston,
+MA.  
+[[abstract][4]] [[slides][10]]
+
 * Battaglia P. W., Hamrick J. B., & Tenenbaum J. B. (2011,
-    May). Intuitive physics judgments guided by probabilistic dynamics
-    model. Presented by P. W. Battaglia at the Annual Meeting of the
-    Vision Sciences Society. Naples, FL. [[abstract][11]]
-    [[poster][12]]
+May). Intuitive physics judgments guided by probabilistic dynamics
+model. Presented by P. W. Battaglia at the Annual Meeting of the
+Vision Sciences Society. Naples, FL.  
+[[abstract][11]] [[poster][12]]
 
  [2]: /publications/abstracts/Hamrick2012-Physical_Reasoning_in_Complex_Scen/
  [3]: /publications/pdf/Hamrick2012-Physical_Reasoning_in_Complex_Scen.pdf
