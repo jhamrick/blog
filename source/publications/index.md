@@ -27,6 +27,20 @@ sharing: false
 
 #### Presentations
 
+##### Upcoming
+
+* Hamrick, J. B., Battaglia, P. W., Griffiths, T. L., & Tenenbaum,
+  J. B. (2013). Inferring mass in complex physical scenes via
+  probabilistic simulation. Talk to be presented at the 46th Annual
+  Meeting of the Society of Mathematical Psychology, Potsdam,
+  Germany. [[abstract][15]]
+* Abbott J. T., Hamrick J. B., & Griffiths T. L. (2013,
+  July). Approximating Bayesian inference with a sparse distributed
+  memory system. Poster to be presented at the 35th Annual Conference
+  of the Cognitive Science Society. Berlin, Germany. [[abstract][13]]
+
+##### Past
+
 * Battaglia P. W., Hamrick J. B., & Tenenbaum J. B. (2012,
     May). Intuitive mechanics in visual reasoning about complex scenes
     with unknown forces. Presented by P. W. Battaglia at the Annual
@@ -60,3 +74,4 @@ sharing: false
  [12]: /publications/pdf/Battaglia2011-Human_stability_perception_impli.pdf
  [13]: /publications/abstracts/Abbott2013-Approximating_Bayesian_inference_wi/
  [14]: /publications/pdf/Abbott2013-Approximating_Bayesian_inference_wi.pdf
+ [15]: /publications/abstracts/Hamrick2013-Inferring_mass_in_complex_physical/
