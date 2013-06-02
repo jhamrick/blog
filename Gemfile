@@ -17,3 +17,5 @@ end
 
 gem 'sinatra', '~> 1.4.2'
 gem 'rack-rewrite'
+gem 'bibtex-ruby'
+gem 'citeproc-ruby'

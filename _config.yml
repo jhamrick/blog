@@ -102,6 +102,11 @@ google_analytics_tracking_id: UA-12554873-1
 # Facebook Like
 facebook_like: true
 
+# BibTex Citation plugin
+citation:
+    citation_style: plugins/apa.csl
+    citation_locale: en
+
 # -------------------------- #
 #  App.net Timeline Configs  #
 # -------------------------- #
@@ -112,3 +117,4 @@ adn_timeline:
   avatars: true
   replies: false
   reposts: true
+
