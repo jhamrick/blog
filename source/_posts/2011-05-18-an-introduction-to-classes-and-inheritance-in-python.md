@@ -288,11 +288,11 @@ True
 
 Because `mister_pet` is a `Pet`, but not a `Dog`, we can't call
 `chasesCats` on it because the `Pet` class has no `chasesCats`
-method. We can, however, call `chases` on `mister_dog`, because it is
-defined for the `Dog` class. Conversely, we *can* call the `getName`
-method on both `mister_pet` and `mister_dog` because they are both
-instances of `Pet`, even though `getName` is not explicitly defined in
-the `Dog` class.
+method. We can, however, call `chasesCats` on `mister_dog`, because it
+is defined for the `Dog` class. Conversely, we *can* call the
+`getName` method on both `mister_pet` and `mister_dog` because they
+are both instances of `Pet`, even though `getName` is not explicitly
+defined in the `Dog` class.
 
 ```python
 >>> mister_pet.chasesCats()
