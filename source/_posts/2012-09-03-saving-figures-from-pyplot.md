@@ -48,6 +48,7 @@ Here's an example of this function in use:
 
 ```python
 import numpy as np
+import pyplot as plt
 
 # Make a quick sin plot
 x = np.linspace(, 10, 100)
