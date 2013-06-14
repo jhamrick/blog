@@ -6,9 +6,15 @@
    ******************************* */
 
 body {
-    font-size: .8em;
+    font-size: 1em;
     > header {
 	margin-bottom: .7em;
+    }
+}
+
+aside.sidebar {
+    section {
+        font-size: 0.9em;
     }
 }
 
@@ -56,7 +62,7 @@ body > nav {
     margin-bottom: 0;
 
     @media only screen and (min-width: 550px) {
-	font-size: 1.25em;
+	font-size: 1.2em;
 	li + li {
 	    border-left: none;
 	    a {
