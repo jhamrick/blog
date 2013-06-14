@@ -77,6 +77,14 @@ body > nav {
    ***************************************** */
 
 aside.sidebar {
+    a {
+	color: inherit;
+	@include transition(color .2s);
+    }
+    &:hover a {
+        color: $sidebar-color;
+        &:hover { color: $sidebar-link-color-hover; }
+    }
     section {
 	margin-bottom: 2em;
     }
