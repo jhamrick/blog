@@ -14,7 +14,7 @@ body {
 
 aside.sidebar {
     section {
-        font-size: 0.9em;
+        font-size: 0.8em;
     }
 }
 
@@ -137,4 +137,19 @@ div#tocBlock {
 .adn-timeline {
   @include adn-timeline-layout;
   @include adn-timeline-theme;
+}
+
+/* ***************
+   * Icons aside *
+   *************** */
+
+#aside-icons {
+    text-align: center;
+    white-space: nowrap;
+    font-size: 1.1em;
+    margin-bottom: -0.5em;
+    a, span {
+        text-decoration: none;
+        white-space: nowrap;
+    }
 }

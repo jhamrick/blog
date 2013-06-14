@@ -27,19 +27,19 @@ how people reason about every day physical events, modeling this
 "intuitive physics" through knowledge-rich simulations consistent with
 Newtonian physics.
 
-Feel free to drop me a line at **jhamrick** at **berkeley** dot
-**edu**. Or, you can find me at various places around the web:
+<!-- Feel free to drop me a line at **jhamrick** at **berkeley** dot -->
+<!-- **edu**. Or, you can find me at various places around the web: -->
 
- [3]: http://web.mit.edu/jhamrick/Public/jessica-hamrick-cv.pdf
+<!--  [3]: http://web.mit.edu/jhamrick/Public/jessica-hamrick-cv.pdf -->
 
-*  [Twitter][4]
-*  [GitHub][5]
-*  [LinkedIn][6]
-*  [Academia.edu][7]
-*  [Launchpad][8]
+<!-- *  [Twitter][4] -->
+<!-- *  [GitHub][5] -->
+<!-- *  [LinkedIn][6] -->
+<!-- *  [Academia.edu][7] -->
+<!-- *  [Launchpad][8] -->
 
- [4]: http://twitter.com/#!/jhamrick
- [5]: https://github.com/jhamrick
- [6]: http://www.linkedin.com/pub/jess-hamrick/11/b08/4ba/
- [7]: http://berkeley.academia.edu/JessicaHamrick
- [8]: https://launchpad.net/~jhamrick
+<!--  [4]: http://twitter.com/#!/jhamrick -->
+<!--  [5]: https://github.com/jhamrick -->
+<!--  [6]: http://www.linkedin.com/pub/jess-hamrick/11/b08/4ba/ -->
+<!--  [7]: http://berkeley.academia.edu/JessicaHamrick -->
+<!--  [8]: https://launchpad.net/~jhamrick -->
