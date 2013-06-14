@@ -1,8 +1,9 @@
 <section class="recent-posts">
   <h1>Recent Posts</h1>
-  <ul id="recent_posts">
+  <ul id="recent_posts" class="icons-ul">
     {% for post in site.posts limit: site.recent_posts %}
       <li class="post">
+        <i class='icon-li icon-double-angle-right'></i>
         <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
       </li>
     {% endfor %}
