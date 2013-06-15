@@ -109,6 +109,19 @@ aside.sidebar {
     }
 }
 
+/* **************************************
+   * Overrides included gist stylesheet *
+   ************************************** */
+
+.gist .gist-file {
+    .highlight {
+	width: 100%;
+    }
+    .gist-data .line-pre {
+        font-size: 13px;
+    }
+}
+
 /* *********************
    * Table of contents *
    ********************* */
