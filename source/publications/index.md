@@ -58,18 +58,31 @@ address = {Austin, TX}
 @misc{Inferringmassinco:2013wj,
 author = {Hamrick, Jessica B and Battaglia, Peter W and Griffiths, Thomas L and Tenenbaum, Joshua B},
 title = {Inferring mass in complex physical scenes via probabilistic simulation},
-booktitle = {To be presented at the 46th Annual Meeting of the Society of Mathematical Psychology},
+booktitle = {Talk to be presented at the 46th Annual Meeting of the Society of Mathematical Psychology},
 year = {2013},
-address = {Potsdam, Germany}
+address = {Potsdam, Germany},
+month = aug
 }
 {% endbibtex %}  
 [[abstract][15]] [[bibtex][19]]
 
 * {% bibtex %}
+@misc{Inferringmassinco:2013wja,
+author = {Hamrick, Jessica B and Battaglia, Peter W and Griffiths, Thomas L and Tenenbaum, Joshua B},
+title = {Inferring mass in complex physical scenes via probabilistic simulation},
+booktitle = {Poster to be presented at the 35th Annual Conference of the Cognitive Science Society},
+year = {2013},
+address = {Berlin, Germany},
+month = aug
+}
+{% endbibtex %}  
+[[abstract][25]] [[bibtex][26]]
+
+* {% bibtex %}
 @misc{ApproximatingBayesi:2013tb,
 author = {Abbott, Joshua T and Hamrick, Jessica B and Griffiths, Thomas L},
 title = {Approximating Bayesian inference with a sparse distributed memory system},
-booktitle = {35th Annual Conference of the Cognitive Science Society},
+booktitle = {Poster to be presented at the 35th Annual Conference of the Cognitive Science Society},
 year = {2013},
 address = {Berlin, Germany},
 month = jul
@@ -107,7 +120,7 @@ month = may,
 @misc{Internalphysicsmod:2011tu,
 author = {Hamrick, Jessica B and Battaglia, Peter W and Tenenbaum, Joshua B},
 title = {Internal physics models guide probabilistic judgments about object dynamics},
-booktitle = {33rd Annual Conference of the Cognitive Science Society},
+booktitle = {Talk presented by J. Hamrick at the 33rd Annual Conference of the Cognitive Science Society},
 year = {2011},
 address = {Boston, MA},
 month = jul
@@ -150,3 +163,5 @@ month = may
  [22]: /publications/abstracts/Hamrick2012-Physics_knowledge_aids_object_perc/Physicsknowledgeai:2012vn.bib
  [23]: /publications/abstracts/Hamrick2011-Internal_physics_models_guide_prob/Internalphysicsmod:2011tu.bib
  [24]: /publications/abstracts/Battaglia2011-Human_stability_perception_impli/Humanstabilityperc:2011uq.bib
+ [25]: /publications/abstracts/Hamrick2013a-Inferring_mass_in_complex_physica/
+ [26]: /publications/abstracts/Hamrick2013a-Inferring_mass_in_complex_physica/Inferringmassinco:2013wja.bib
