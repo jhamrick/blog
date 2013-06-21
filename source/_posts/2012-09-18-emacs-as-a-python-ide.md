@@ -385,6 +385,7 @@ install it into `~/.emacs.d/ropemacs-0.7/`. Add the following to your
 
 ```scheme Pymacs and Ropemacs
 ; pymacs
+(add-to-list 'load-path "~/.emacs.d/pymacs-0.25")
 (autoload 'pymacs-apply "pymacs")
 (autoload 'pymacs-call "pymacs")
 (autoload 'pymacs-eval "pymacs" nil t)
