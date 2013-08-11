@@ -14,7 +14,7 @@ title = {Simulation as an engine of physical scene understanding},
 journal = {Submitted}
 }
 {% endbibtex %}
-  
+
 * {% bibtex %}
 @inproceedings{Abbott:2013tb,
 author = {Abbott, Joshua T and Hamrick, Jessica B and Griffiths, Thomas L},
@@ -26,17 +26,20 @@ address = {Austin, TX},
 month = may
 }
 {% endbibtex %}  
-[[abstract][13]] [[pdf][14]] [[bibtex][16]]
+[[abstract](http://mindmodeling.org/cogsci2013/papers/0316/index.html)]
+[[pdf](http://mindmodeling.org/cogsci2013/papers/0316/paper0316.pdf)]
 
 * {% bibtex %}
 @mastersthesis{Hamrick:2012wn,
 author = {Hamrick, Jessica B},
 title = {Physical Reasoning in Complex Scenes is Sensitive to Mass},
 school = {Massachusetts Institute of Technology},
-year = {2012}
+year = {2012},
+doi = {1721.1/77012},
 }
 {% endbibtex %}  
-[[abstract][2]] [[pdf][3]] [[bibtex][17]]
+[[abstract](http://dspace.mit.edu/handle/1721.1/77012)]
+[[pdf](/publications/pdf/Hamrick2012-Physical_Reasoning_in_Complex_Scen.pdf)]
 
 * {% bibtex %}
 @inproceedings{Hamrick:2011tu,
@@ -48,120 +51,97 @@ editor = {Carlson, L and Holscher, C and Shipley, T},
 address = {Austin, TX}
 }
 {% endbibtex %}  
-[[abstract][4]] [[pdf][5]] [[bibtex][18]]
+[[abstract](http://mindmodeling.org/cogsci2011/papers/0350/index.html)]
+[[pdf](http://mindmodeling.org/cogsci2011/papers/0350/paper0350.pdf)]
 
 #### Presentations
-
-##### Upcoming
 
 * {% bibtex %}
 @misc{Inferringmassinco:2013wj,
 author = {Hamrick, Jessica B and Battaglia, Peter W and Griffiths, Thomas L and Tenenbaum, Joshua B},
 title = {Inferring mass in complex physical scenes via probabilistic simulation},
-booktitle = {Talk to be presented at the 46th Annual Meeting of the Society of Mathematical Psychology},
+booktitle = {Talk presented at the 46th Annual Meeting of the Society of Mathematical Psychology},
 year = {2013},
 address = {Potsdam, Germany},
-month = aug
+month = aug,
 }
 {% endbibtex %}  
-[[abstract][15]] [[bibtex][19]]
+[<a href="/publications/slides/mathpsych2013/mathpsych2013-slides.slides.html?transition=none" target="_blank">html slides</a> <img src="images/external.png" alt="opens in new window" class="external" />]
+[[screencast](http://figshare.com/articles/Inferring_mass_in_complex_physical_scenes_via_probabilistic_simulation/768506)]
 
 * {% bibtex %}
 @misc{Inferringmassinco:2013wja,
 author = {Hamrick, Jessica B and Battaglia, Peter W and Griffiths, Thomas L and Tenenbaum, Joshua B},
 title = {Inferring mass in complex physical scenes via probabilistic simulation},
-booktitle = {Poster to be presented at the 35th Annual Conference of the Cognitive Science Society},
+booktitle = {Poster presented at the 35th Annual Conference of the Cognitive Science Society},
 year = {2013},
 address = {Berlin, Germany},
-month = aug
+month = aug,
 }
 {% endbibtex %}  
-[[abstract][25]] [[bibtex][26]]
-
-* {% bibtex %}
-@misc{ApproximatingBayesi:2013tb,
-author = {Abbott, Joshua T and Hamrick, Jessica B and Griffiths, Thomas L},
-title = {Approximating Bayesian inference with a sparse distributed memory system},
-booktitle = {Poster to be presented at the 35th Annual Conference of the Cognitive Science Society},
-year = {2013},
-address = {Berlin, Germany},
-month = jul
-}
-{% endbibtex %}  
-[[abstract][13]] [[bibtex][20]]
-
-##### Past
-
-* {% bibtex %}
-@misc{Intuitivemechanics:2012un,
-author = {Battaglia, Peter W and Hamrick, Jessica B and Tenenbaum, Joshua B},
-title = {Intuitive mechanics guides reasoning about complex scenes and unknown forces},
-booktitle = {Poster presented by P. Battaglia at the Annual Meeting of the Vision Sciences Society},
-year = {2012},
-address = {Naples, FL},
-month = may
-}
-{% endbibtex %}  
-[[abstract][6]] [[poster][7]] [[bibtex][21]]
+[[abstract](http://mindmodeling.org/cogsci2013/papers/0778/index.html)]
+[[poster](http://figshare.com/articles/Inferring_mass_in_complex_physical_scenes_via_probabilistic_simulation/768445)]
 
 * {% bibtex %}
 @misc{Physicsknowledgeai:2012vn,
 author = {Hamrick, Jessica B and Battaglia, Peter W and Tenenbaum, Joshua B},
 title = {Physics knowledge aids object perception in dynamic scenes},
-booktitle = {Poster presented by J. Hamrick at the Annual Meeting of the Vision Sciences Society},
+booktitle = {Poster presented at the Annual Meeting of the Vision Sciences Society},
 year = {2012},
 address = {Naples, FL},
 month = may,
 }
 {% endbibtex %}  
-[[abstract][8]] [[poster][9]] [[bibtex][22]]
+[[poster](http://figshare.com/articles/Physical_reasoning_in_complex_scenes_is_sensitive_to_mass/768510)]
 
 * {% bibtex %}
 @misc{Internalphysicsmod:2011tu,
 author = {Hamrick, Jessica B and Battaglia, Peter W and Tenenbaum, Joshua B},
 title = {Internal physics models guide probabilistic judgments about object dynamics},
-booktitle = {Talk presented by J. Hamrick at the 33rd Annual Conference of the Cognitive Science Society},
+booktitle = {Talk presented at the 33rd Annual Conference of the Cognitive Science Society},
 year = {2011},
 address = {Boston, MA},
-month = jul
+month = jul,
 }
 {% endbibtex %}  
-[[abstract][4]] [[slides][10]] [[bibtex][23]]
+[[abstract](http://mindmodeling.org/cogsci2011/papers/0350/index.html)]
+[[slides](http://figshare.com/articles/Intuitive_physics_judgments_guided_by_probabilistic_dynamics_model/768508)]
+
+#### Presentations by others
+
+* {% bibtex %}
+@misc{ApproximatingBayesi:2013tb,
+author = {Abbott, Joshua T and Hamrick, Jessica B and Griffiths, Thomas L},
+title = {Approximating Bayesian inference with a sparse distributed memory system},
+booktitle = {Poster presented at the 35th Annual Conference of the Cognitive Science Society},
+year = {2013},
+address = {Berlin, Germany},
+month = aug,
+}
+{% endbibtex %}  
+[[abstract](http://mindmodeling.org/cogsci2013/papers/0316/index.html)]
+[[poster](http://figshare.com/articles/Approximating_Bayesian_inference_with_a_sparse_distributed_memory_system/768509)]
+
+* {% bibtex %}
+@misc{Intuitivemechanics:2012un,
+author = {Battaglia, Peter W and Hamrick, Jessica B and Tenenbaum, Joshua B},
+title = {Intuitive mechanics guides reasoning about complex scenes and unknown forces},
+booktitle = {Poster presented at the Annual Meeting of the Vision Sciences Society},
+year = {2012},
+address = {Naples, FL},
+month = may
+}
+{% endbibtex %}  
+[[poster](/publications/pdf/Battaglia2012-Intuitive_mechanics_guides_reaso.pdf)]
 
 * {% bibtex %}
 @misc{Humanstabilityperc:2011uq,
 author = {Battaglia, Peter W and Hamrick, Jessica B and Tenenbaum, Joshua B},
 title = {Human stability perception implies sophisticated knowledge of physical dynamics},
-booktitle = {Poster presented by P. Battaglia at the Annual Meeting of the Vision Sciences Society},
+booktitle = {Poster at the Annual Meeting of the Vision Sciences Society},
 year = {2011},
 address = {Naples, FL},
 month = may
 }
 {% endbibtex %}  
-[[abstract][11]] [[poster][12]] [[bibtex][24]]
-
- [2]: /publications/abstracts/Hamrick2012-Physical_Reasoning_in_Complex_Scen/
- [3]: /publications/pdf/Hamrick2012-Physical_Reasoning_in_Complex_Scen.pdf
- [4]: /publications/abstracts/Hamrick2011-Internal_physics_models_guide_prob/
- [5]: /publications/pdf/Hamrick2011-Internal_physics_models_guide_prob.pdf
- [6]: /publications/abstracts/Battaglia2012-Intuitive_mechanics_guides_reaso/
- [7]: /publications/pdf/Battaglia2012-Intuitive_mechanics_guides_reaso.pdf
- [8]: /publications/abstracts/Hamrick2012-Physics_knowledge_aids_object_perc/
- [9]: /publications/pdf/Hamrick2012-Physics_knowledge_aids_object_perc.pdf
- [10]: /publications/pdf/Hamrick2011-Internal_physics_models_guide_prob-slides.pdf
- [11]: /publications/abstracts/Battaglia2011-Human_stability_perception_impli/
- [12]: /publications/pdf/Battaglia2011-Human_stability_perception_impli.pdf
- [13]: /publications/abstracts/Abbott2013-Approximating_Bayesian_inference_wi/
- [14]: /publications/pdf/Abbott2013-Approximating_Bayesian_inference_wi.pdf
- [15]: /publications/abstracts/Hamrick2013-Inferring_mass_in_complex_physical/
- [16]: /publications/abstracts/Abbott2013-Approximating_Bayesian_inference_wi/Abbott:2013tb.bib
- [17]: /publications/abstracts/Hamrick2012-Physical_Reasoning_in_Complex_Scen/Hamrick:2012wn.bib
- [18]: /publications/abstracts/Hamrick2011-Internal_physics_models_guide_prob/Hamrick:2011tu.bib
- [19]: /publications/abstracts/Hamrick2013-Inferring_mass_in_complex_physical/Inferringmassinco:2013wj.bib
- [20]: /publications/abstracts/Abbott2013-Approximating_Bayesian_inference_wi/ApproximatingBayesi:2013tb.bib
- [21]: /publications/abstracts/Battaglia2012-Intuitive_mechanics_guides_reaso/Intuitivemechanics:2012un.bib
- [22]: /publications/abstracts/Hamrick2012-Physics_knowledge_aids_object_perc/Physicsknowledgeai:2012vn.bib
- [23]: /publications/abstracts/Hamrick2011-Internal_physics_models_guide_prob/Internalphysicsmod:2011tu.bib
- [24]: /publications/abstracts/Battaglia2011-Human_stability_perception_impli/Humanstabilityperc:2011uq.bib
- [25]: /publications/abstracts/Hamrick2013a-Inferring_mass_in_complex_physica/
- [26]: /publications/abstracts/Hamrick2013a-Inferring_mass_in_complex_physica/Inferringmassinco:2013wja.bib
+[[poster](/publications/pdf/Battaglia2011-Human_stability_perception_impli.pdf)]
