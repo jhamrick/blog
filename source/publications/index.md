@@ -66,7 +66,7 @@ address = {Potsdam, Germany},
 month = aug,
 }
 {% endbibtex %}  
-[<a href="/publications/slides/mathpsych2013/mathpsych2013-slides.slides.html?transition=none" target="_blank">html slides</a> <img src="images/external.png" alt="opens in new window" class="external" />]
+[<a href="/publications/slides/mathpsych2013/mathpsych2013-slides.slides.html?transition=none" target="_blank">html slides</a> <img src="/images/external.png" alt="opens in new window" class="external" />]
 [[screencast](http://figshare.com/articles/Inferring_mass_in_complex_physical_scenes_via_probabilistic_simulation/768506)]
 
 * {% bibtex %}
