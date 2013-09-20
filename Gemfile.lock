@@ -71,6 +71,7 @@ DEPENDENCIES
   bibtex-ruby
   citeproc-ruby
   compass (~> 0.12.2)
+  directory_watcher (= 1.4.1)
   haml (~> 3.1.7)
   jekyll (~> 0.12)
   liquid (~> 2.3.0)
