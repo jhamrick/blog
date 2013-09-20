@@ -11,7 +11,7 @@ sharing: false
 @article{Battaglia:ts,
 author = {Battaglia, Peter W and Hamrick, Jessica B and Tenenbaum, Joshua B},
 title = {Simulation as an engine of physical scene understanding},
-journal = {Submitted}
+journal = {Proceedings of the National Academy of Sciences, in press},
 }
 {% endbibtex %}
 
