@@ -42,6 +42,17 @@ article {
 	    }
 	}
     }
+
+    div.entry-content {
+	li > ol {
+	    margin-top: 1.5em;
+	    margin-bottom: 1.5em;
+	}
+	li > ul {
+	    margin-top: 1.5em;
+	    margin-bottom: 1.5em;
+	}
+    }
 }
 
 /* ***************************************
