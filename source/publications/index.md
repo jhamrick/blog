@@ -13,7 +13,10 @@ author = {Battaglia, Peter W and Hamrick, Jessica B and Tenenbaum, Joshua B},
 title = {Simulation as an engine of physical scene understanding},
 journal = {Proceedings of the National Academy of Sciences, in press},
 }
-{% endbibtex %}
+{% endbibtex %}  
+[[abstract](http://www.pnas.org/content/early/2013/10/17/1306572110.abstract)]
+[[pdf](/publications/pdf/Battaglia2013-Simulation_as_an_engine_of_physi.pdf)]
+[[supplemental](/publications/pdf/Battaglia2013-Simulation_as_an_engine_of_physi-si.pdf)]
 
 * {% bibtex %}
 @inproceedings{Abbott:2013tb,
