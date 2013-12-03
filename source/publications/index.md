@@ -8,6 +8,17 @@ sharing: false
 #### Papers and Conference Proceedings
 
 * {% bibtex %}
+@inproceedings{Hamrick:2013vg,
+author = {Hamrick, Jessica B and Griffiths, Thomas L},
+title = {Mental Rotation as Bayesian Quadrature},
+booktitle = {the Bayesian Optimization Workshop at NIPS 2013},
+year = {2013},
+month = dec
+}
+{% endbibtex %}
+[[pdf](/publications/pdf/Hamrick2013-Mental_Rotation_as_Bayesian_Quadra.pdf)]
+
+* {% bibtex %}
 @article{Battaglia:ts,
 author = {Battaglia, Peter W and Hamrick, Jessica B and Tenenbaum, Joshua B},
 title = {Simulation as an engine of physical scene understanding},
@@ -61,6 +72,16 @@ address = {Austin, TX}
 [[pdf](http://mindmodeling.org/cogsci2011/papers/0350/paper0350.pdf)]
 
 #### Presentations
+
+* {% bibtex %}
+@misc{Hamrick:2013vg,
+author = {Hamrick, Jessica B and Griffiths, Thomas L},
+title = {Mental Rotation as Bayesian Quadrature},
+booktitle = {Poster presented at the Bayesian Optimization Workshop at NIPS 2013},
+year = {2013},
+month = dec
+}
+{% endbibtex %}
 
 * {% bibtex %}
 @misc{Inferringmassinco:2013wj,
