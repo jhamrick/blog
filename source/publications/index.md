@@ -15,7 +15,7 @@ booktitle = {the Bayesian Optimization Workshop at NIPS 2013},
 year = {2013},
 month = dec
 }
-{% endbibtex %}
+{% endbibtex %}  
 [[pdf](/publications/pdf/Hamrick2013-Mental_Rotation_as_Bayesian_Quadra.pdf)]
 
 * {% bibtex %}
@@ -81,7 +81,8 @@ booktitle = {Poster presented at the Bayesian Optimization Workshop at NIPS 2013
 year = {2013},
 month = dec
 }
-{% endbibtex %}
+{% endbibtex %}  
+[[poster](http://figshare.com/articles/Mental_Rotation_as_Bayesian_Quadrature/900394)]
 
 * {% bibtex %}
 @misc{Hamrick:2013sf,
