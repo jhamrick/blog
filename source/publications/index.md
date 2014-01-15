@@ -84,6 +84,18 @@ month = dec
 {% endbibtex %}
 
 * {% bibtex %}
+@misc{Hamrick:2013sf,
+author = {Hamrick, Jessica B},
+title = {Rewriting Python Docstrings with a Metaclass},
+booktitle = {Talk presented at the San Francisco Python Meetup},
+year = {2013},
+month = nov,
+}
+{% endbibtex %}  
+[<a href="/publications/slides/sfpython2013/metaclasses-slides.slides.html?transition=none" target="_blank">html slides</a> <img src="/images/external.png" alt="opens in new window" class="external" />]
+[[video](https://www.youtube.com/watch?v=ZrUIRSVv1gw)]
+
+* {% bibtex %}
 @misc{Inferringmassinco:2013wj,
 author = {Hamrick, Jessica B and Battaglia, Peter W and Griffiths, Thomas L and Tenenbaum, Joshua B},
 title = {Inferring mass in complex physical scenes via probabilistic simulation},

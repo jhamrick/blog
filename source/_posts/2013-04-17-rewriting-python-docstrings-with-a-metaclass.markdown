@@ -15,6 +15,12 @@ tags:
   - code
 ---
 
+**Update**: I gave a talk based on this post at the November 2013 San
+ Francisco Python meetup! Here are the
+ [slides](/publications/slides/sfpython2013/metaclasses-slides.slides.html?transition=none)
+ and a [video](https://www.youtube.com/watch?v=ZrUIRSVv1gw) of the
+ talk.
+
 Today, I found myself in a situation where I had a few different
 classes inheriting from each other, e.g.:
 
