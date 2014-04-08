@@ -22,6 +22,15 @@ tags:
   - guide
 ---
 
+**Update 04/08/2014**: *It seems like this post has been helpful for a
+  lot of people, which really makes me happy! I just wanted to let new
+  readers coming by know that the configuration I present in this post
+  is out-of-date. However, I have my
+  [Emacs configuration on GitHub](https://github.com/jhamrick/emacs),
+  and do try to keep it up-to-date. If you have any difficulties
+  getting the configuration in the GitHub to work, please do submit a
+  bug request and I will try to help you fix the problem.*
+
 As I mentioned in last week's post, I am a heavy Emacs user and find
 it invaluable as an environment for my research. In particular, I use
 Emacs most for data analysis and modeling in Python, including an
