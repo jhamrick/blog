@@ -11,23 +11,23 @@ tags:
   - ipython notebook
 ---
 
-Every week, a group of Python enthusiasts around Berkeley get together
-to talk about various Python things. This past week, we talked about
-Greg Malcom's wonderful
-[Python koans](https://github.com/gregmalcolm/python_koans), which are
-a way of learning Python through test-driven-development (TDD). The
-basic idea is that by fixing failing tests, you can learn Python! I
-think this is a brilliant idea.
-
-tl;dr As a proof of concept, I converted the Python koan
+Short version: As a proof of concept, I converted the Python koan
 `about_strings` (which you can find
 [here](https://github.com/gregmalcolm/python_koans/blob/master/python2/koans/about_strings.py),
 for Python 2, or
 [here](https://github.com/gregmalcolm/python_koans/blob/master/python3/koans/about_strings.py),
 for Python 3) into an IPython notebook. Here's the
-[notebook on nbviewer](http://nbviewer.ipython.org/urls/gist.githubusercontent.com/jhamrick/10344303/raw/31808f83b012a99879ba5a57e0406f23056a5ff1/About+koans).
+[notebook on nbviewer](http://nbviewer.ipython.org/gist/jhamrick/10344303/).
 
 <!-- more -->
+
+Long version: Every week, a group of Python enthusiasts around
+Berkeley get together to talk about various Python things. This past
+week, we talked about Greg Malcom's wonderful
+[Python koans](https://github.com/gregmalcolm/python_koans), which are
+a way of learning Python through test-driven-development (TDD). The
+basic idea is that by fixing failing tests, you can learn Python! I
+think this is a brilliant idea.
 
 However, I felt like some of the tests were a little artificial:
 
@@ -83,5 +83,5 @@ you can find
 for Python 2, or
 [here](https://github.com/gregmalcolm/python_koans/blob/master/python3/koans/about_strings.py),
 for Python 3) into an IPython notebook. Here's the
-[notebook on nbviewer](http://nbviewer.ipython.org/urls/gist.githubusercontent.com/jhamrick/10344303/raw/31808f83b012a99879ba5a57e0406f23056a5ff1/About+koans). Let
+[notebook on nbviewer](http://nbviewer.ipython.org/gist/jhamrick/10344303/). Let
 me know what you think!
