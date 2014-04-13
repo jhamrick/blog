@@ -74,6 +74,20 @@ address = {Austin, TX}
 #### Presentations
 
 * {% bibtex %}
+@misc{Hamrick:2014,
+author = {Hamrick, Jessica B and Battaglia, Peter W},
+title = {Games for Science: Creating interactive psychology experiments in Python with Panda3D},
+booktitle = {Talk presented at PyCon 2014},
+year = {2014},
+address = {Montreal, Canada},
+month = apr
+}
+{% endbibtex %}  
+[[abstract](https://us.pycon.org/2014/schedule/presentation/183/)]
+[[slides](http://jhamrick.github.io/pycon-2014-talk)]
+[video (coming soon)]
+
+* {% bibtex %}
 @misc{Hamrick:2013vg,
 author = {Hamrick, Jessica B and Griffiths, Thomas L},
 title = {Mental Rotation as Bayesian Quadrature},
