@@ -85,7 +85,7 @@ month = apr
 {% endbibtex %}  
 [[abstract](https://us.pycon.org/2014/schedule/presentation/183/)]
 [[slides](http://jhamrick.github.io/pycon-2014-talk)]
-[video (coming soon)]
+[[video](http://www.pyvideo.org/video/2655/games-for-science-creating-interactive-psycholog)]
 
 * {% bibtex %}
 @misc{Hamrick:2013vg,
