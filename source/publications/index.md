@@ -84,7 +84,7 @@ month = apr
 }
 {% endbibtex %}  
 [[abstract](https://us.pycon.org/2014/schedule/presentation/183/)]
-[[slides](http://jhamrick.github.io/pycon-2014-talk)]
+[<a href="http://jhamrick.github.io/pycon-2014-talk" target="_blank">html slides</a> <img src="/images/external.png" alt="opens in new window" class="external" />]
 [[video](http://www.pyvideo.org/video/2655/games-for-science-creating-interactive-psycholog)]
 
 * {% bibtex %}
