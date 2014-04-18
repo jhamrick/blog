@@ -1,5 +1,5 @@
 ---
-title: 'Installing 64-bit Panda3D for Python 2.7 on OSX'
+title: 'Installing 64-bit Panda3D for Python 2.7 on OS X'
 layout: post
 comments: true
 permalink: /2013/09/26/instaling-64-bit-panda3d-for-python-27-on-osx/
@@ -8,7 +8,7 @@ categories:
 tags:
   - panda3d
   - python
-  - osx
+  - OS X
 ---
 
 I use the [Panda3D video game engine](http://www.panda3d.org/) to
