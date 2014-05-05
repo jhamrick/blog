@@ -8,6 +8,18 @@ sharing: false
 #### Papers and Conference Proceedings
 
 * {% bibtex %}
+@inproceedings{Hamrick:2014wq,
+author = {Hamrick, Jessica B and Griffiths, Thomas L},
+title = {What to simulate? Inferring the right direction for mental rotation},
+booktitle = {Proceedings of the 36th Annual Meeting of the Cognitive Science Society},
+year = {2014},
+editor = {Bello, P and Guarini, M and McShane, M and Scassellati, B},
+address = {Austin, TX}
+}
+{% endbibtex %}  
+[[pdf](/publications/pdf/Hamrick2014-What_to_simulate_Inferring_the_rig.pdf)]
+
+* {% bibtex %}
 @inproceedings{Hamrick:2013vg,
 author = {Hamrick, Jessica B and Griffiths, Thomas L},
 title = {Mental Rotation as Bayesian Quadrature},
@@ -72,6 +84,17 @@ address = {Austin, TX}
 [[pdf](http://mindmodeling.org/cogsci2011/papers/0350/paper0350.pdf)]
 
 #### Presentations
+
+* {% bibtex %}
+@misc{Whattosimulateinf:2014,
+author = {Hamrick, Jessica B and Griffiths, Thomas L},
+title = {What to simulate? Inferring the right direction for mental rotation},
+booktitle = {Talk to be presented at the 36th Annual Conference of the Cognitive Science Society},
+year = {2014},
+address = {Quebec City, Canada},
+month = aug,
+}
+{% endbibtex %}
 
 * {% bibtex %}
 @misc{Hamrick:2014,
