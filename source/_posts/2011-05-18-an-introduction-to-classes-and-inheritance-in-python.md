@@ -241,7 +241,7 @@ whether or not the dog likes to chase cats. To do this, we need to
 define our own initialization function (recall that this is known as
 *overriding*). We also need to call the parent class initialization
 function, though, because we still want the `name` and `species`
-fields to be initialized. If we did not have line 3, then we could
+fields to be initialized. If we did not have line 4, then we could
 still call the methods `getName` and `getSpecies`. However, because
 `Pet.__init__` was never called, the `name` and `species` fields were
 never created, so calling `getName` or `getSpecies` would throw an
