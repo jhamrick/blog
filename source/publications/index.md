@@ -94,7 +94,8 @@ year = {2014},
 address = {Quebec City, Canada},
 month = aug,
 }
-{% endbibtex %}
+{% endbibtex %}  
+[<a href="http://jhamrick.github.io/mental-rotation-slides-cogsci2014" target="_blank">html slides</a> <img src="/images/external.png" alt="opens in new window" class="external" />]
 
 * {% bibtex %}
 @misc{Hamrick:2014,
