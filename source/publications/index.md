@@ -8,6 +8,16 @@ sharing: false
 #### Papers and Conference Proceedings
 
 * {% bibtex %}
+@article{Lieder:2014ut,
+author = {Lieder, Falk and Plunkett, Dillon and Hamrick, Jessica B and Russell, Stuart J and Hay, Nicholas J and Griffiths, Thomas L},
+title = {Algorithm selection by rational metareasoning as a model of human strategy selection},
+journal = {Advances in Neural Information Processing Systems},
+year = {2014},
+volume = {27}
+}
+{% endbibtex %}  
+
+* {% bibtex %}
 @inproceedings{Hamrick:2014wq,
 author = {Hamrick, Jessica B and Griffiths, Thomas L},
 title = {What to simulate? Inferring the right direction for mental rotation},
