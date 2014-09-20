@@ -1,6 +1,5 @@
 // Source: http://www.blastam.com/blog/index.php/2013/03/how-to-track-downloads-in-google-analytics-v2/
 
-<script type="text/javascript">
 if (typeof jQuery != 'undefined') {
   jQuery(document).ready(function($) {
     var filetypes = /\.(zip|exe|dmg|pdf|doc.*|xls.*|ppt.*|mp3|txt|rar|wma|mov|avi|wmv|flv|wav)$/i;
@@ -53,4 +52,3 @@ if (typeof jQuery != 'undefined') {
     });
   });
 }
-</script>
