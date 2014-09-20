@@ -174,18 +174,6 @@ div#tocBlock {
     }
 }
 
-/* ********************
-   * App.net Timeline *
-   ******************** */
-
-@import 'plugins/adn-timeline';
-
-// Include the layout and theme mixins
-.adn-timeline {
-  @include adn-timeline-layout;
-  @include adn-timeline-theme;
-}
-
 /* ***************
    * Icons aside *
    *************** */

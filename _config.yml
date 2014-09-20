@@ -107,14 +107,3 @@ citation:
     citation_style: plugins/apa.csl
     citation_locale: en
 
-# -------------------------- #
-#  App.net Timeline Configs  #
-# -------------------------- #
-
-adn_timeline:
-  username: jhamrick
-  count: 4
-  avatars: true
-  replies: false
-  reposts: true
-
