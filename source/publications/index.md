@@ -10,6 +10,7 @@ sharing: false
 * Lieder, F., Plunkett, D., Hamrick, J. B., Russell, S. J., Hay, N. J., & Griffiths, T. L. (accepted). Algorithm selection by rational metareasoning as a model of human strategy selection. *Advances in Neural Information Processing Systems*, 27.
 
 * Hamrick, J. B., & Griffiths, T. L. (2014). What to simulate?  Inferring the right direction for mental rotation. In P. Bello, M. Guarini, M. McShane & B. Scassellati (Eds.), *Proceedings of the 36th Annual Meeting of the Cognitive Science Society*. Austin, TX.  
+  [[abstract](https://mindmodeling.org/cogsci2014/papers/108/)]
   [[pdf](/publications/pdf/Hamrick2014-What_to_simulate_Inferring_the_rig.pdf)]
   [<a href="http://jhamrick.github.io/mental-rotation-slides-cogsci2014" target="_blank">html slides</a> <img src="/images/external.png" alt="opens in new window" class="external" />]
 
@@ -20,6 +21,13 @@ sharing: false
 * Battaglia, P. W., Hamrick, J. B., & Tenenbaum, J. B. (2013). Simulation as an engine of physical scene understanding. *Proceedings of the National Academy of Sciences*, 110(45), 18327—18332.  
   [[abstract](http://www.pnas.org/content/110/45/18327.abstract)]
   [[pdf+supplemental](/publications/pdf/Battaglia2013-Simulation_as_an_engine_of_physi.pdf)]
+  [[PNAS featured image](http://www.pnas.org/site/media/Featured_Image_stone.xhtml)]
+  [[project page](http://web.mit.edu/~pbatt/www/PNAS2013)]  
+
+  (see also the popular science articles from
+  [Scientific American](http://www.scientificamerican.com/article/the-video-game-engine-in-your-head)
+  and
+  [Fast Company](http://www.fastcodesign.com/3022236/evidence/how-our-brains-play-angry-birds-with-the-world))
 
 * Abbott, J. T., Hamrick, J. B., & Griffiths, T. L. (2013). Approximating Bayesian inference with a sparse distributed memory system. In M. Knauff, M. Pauen, N. Sebanz & I. Wachsmuth (Eds.), *Proceedings of the 35th Annual Conference of the Cognitive Science Society*. Austin, TX.  
   [[abstract](http://mindmodeling.org/cogsci2013/papers/0316/index.html)]
