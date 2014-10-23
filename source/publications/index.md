@@ -8,7 +8,7 @@ sharing: false
 #### Peer-reviewed articles
 
 * Goodman, N. D., Frank, M. C., Griffiths, T. L., Tenenbaum, J. B., Battaglia, P. W., & Hamrick, J. B. (in press). Relevant and robust. A response to Marcus & Davis (2013). *Psychological Science*.  
-  [[pdf](/publications/pdf/Goodman2014-Relevant_and_robust._A_response_to.pdf)]
+  [[pdf](/publications/pdf/Goodman2014-Relevant_and_robust_A_response_to.pdf)]
 
 * Lieder, F., Plunkett, D., Hamrick, J. B., Russell, S. J., Hay, N. J., & Griffiths, T. L. (accepted). Algorithm selection by rational metareasoning as a model of human strategy selection. *Advances in Neural Information Processing Systems*, 27.
 
