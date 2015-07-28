@@ -7,10 +7,20 @@ sharing: false
 
 #### Peer-reviewed articles
 
-* Goodman, N. D., Frank, M. C., Griffiths, T. L., Tenenbaum, J. B., Battaglia, P. W., & Hamrick, J. B. (in press). Relevant and robust. A response to Marcus & Davis (2013). *Psychological Science*.  
-  [[pdf](/publications/pdf/Goodman2014-Relevant_and_robust_A_response_to.pdf)]
+* Gureckis, T. M., Martin, J., McDonnell, J., Alexander, R. S., Markant, D. B., Coenen, A., Hamrick, J. B., & Chan, P. (2015, in press). psiTurk: An open-source framework for conducting replicable behavioral experiments online. *Behavioral Research Methods*.  
+  [[pdf](/publications/pdf/GureckisetalpsiTurk2015.pdf)]
 
-* Lieder, F., Plunkett, D., Hamrick, J. B., Russell, S. J., Hay, N. J., & Griffiths, T. L. (accepted). Algorithm selection by rational metareasoning as a model of human strategy selection. *Advances in Neural Information Processing Systems*, 27.
+* Hamrick, J. B., Smith, K. A., Griffiths, T. L., & Vul, E. (2015). Think again? The amount of mental simulation tracks uncertainty in the outcome. In *Proceedings of the 37th Annual Conference of the Cognitive Science Society*. Austin, TX.  
+  [[abstract](https://mindmodeling.org/cogsci2015/papers/0156/index.html)]
+  [[pdf](/publications/pdf/Hamrick2015-Think_again_the_amount_of_mental_simulation.pdf)]
+  [[ppt slides](/publications/slides/cogsci2015.pptx)]
+
+* Goodman, N. D., Frank, M. C., Griffiths, T. L., Tenenbaum, J. B., Battaglia, P. W., & Hamrick, J. B. (2015). Relevant and Robust : A Response to Marcus and Davis (2013). *Psychological Science*, 26(4), 539–541. [http://doi.org/10.1177/0956797614559544](http://doi.org/10.1177/0956797614559544)  
+  [[pdf](/publications/pdf/Goodman2015-Relevant_and_robust_A_response_to.pdf)]
+
+* Lieder, F., Hamrick, J. B., Hay, N. J., Plunkett, D., Russell, S. J., & Griffiths, T. L. (2014). Algorithm selection by rational metareasoning as a model of human strategy selection. In Z. Ghahramani, M. Welling, C. Cortes, N. D. Lawrence, & K. Q. Weinberger (Eds.), *Advances in Neural Information Processing Systems 27* (pp. 2870–2878).  
+  [[abstract](http://papers.nips.cc/paper/5552-algorithm-selection-by-rational-metareasoning-as-a-model-of-human-strategy-selection)]
+  [[pdf](/publications/pdf/Lieder2014-Algorithm_selection_by_rational_metareasoning.pdf)]
 
 * Hamrick, J. B., & Griffiths, T. L. (2014). What to simulate?  Inferring the right direction for mental rotation. In P. Bello, M. Guarini, M. McShane & B. Scassellati (Eds.), *Proceedings of the 36th Annual Meeting of the Cognitive Science Society*. Austin, TX.  
   [[abstract](https://mindmodeling.org/cogsci2014/papers/108/)]
@@ -42,6 +52,10 @@ sharing: false
   [[pdf](http://mindmodeling.org/cogsci2011/papers/0350/paper0350.pdf)]
 
 #### Presentations
+
+* Hamrick, J. B., Ragan-Kelley, M., & Kelley, K. (2015, July). Teaching with IPython/Jupyter Notebooks and JupyterHub. Talk presented at SciPy 2015. Austin, TX.  
+  [[video](https://www.youtube.com/watch?v=OuhtpxGuboY)]
+  [<a href="http://jhamrick.github.io/scipy-2015-slides" target="_blank">html slides</a> <img src="/images/external.png" alt="opens in new window" class="external" />]
 
 * Hamrick, J. B., & Battaglia, P. W. (2014, April). Games for Science: Creating interactive psychology experiments in Python with Panda3D. Talk presented at PyCon 2014. Montreal, Canada.  
   [[abstract](https://us.pycon.org/2014/schedule/presentation/183/)]
