@@ -5,13 +5,13 @@ layout: page
 sharing: false
 ---
 
-I contribute to the following open source projects:
+I am currently a member of the [Jupyter Steering Council](https://github.com/ipython/ipython/wiki/IPEP-29:-Project-Governance) and I also contribute to the following open source projects:
 
-* [IPython](http://ipython.org/), an architecture for interactive
-  computing in Python (and other languages, too).
-* [nbgrader](https://github.com/jupyter/nbgrader), a tool built on top
+* [nbgrader](https://github.com/jupyter/nbgrader) (primary maintainer), a tool built on top
   of IPython to help instructors create and grade assignments in the
   IPython notebook.
+* [IPython](http://ipython.org/), an architecture for interactive
+  computing in Python (and other languages, too).
 * [psiTurk](http://psiturk.org/), a platform for running psychological
   experiments on Amazon's Mechanical Turk.
 * [datapackage](https://github.com/tryggvib/datapackage), a Python
