@@ -13,7 +13,7 @@ sharing: false
 * Hamrick, J. B., Smith, K. A., Griffiths, T. L., & Vul, E. (2015). Think again? The amount of mental simulation tracks uncertainty in the outcome. In *Proceedings of the 37th Annual Conference of the Cognitive Science Society*. Austin, TX.  
   [[abstract](https://mindmodeling.org/cogsci2015/papers/0156/index.html)]
   [[pdf](/publications/pdf/Hamrick2015-Think_again_the_amount_of_mental_simulation.pdf)]
-  [[ppt slides](/publications/slides/cogsci2015.pptx)]
+  [[ppt slides](http://figshare.com/articles/Think_again_The_amount_of_mental_simulation_tracks_uncertainty_in_the_outcome/1554893)]
 
 * Goodman, N. D., Frank, M. C., Griffiths, T. L., Tenenbaum, J. B., Battaglia, P. W., & Hamrick, J. B. (2015). Relevant and Robust : A Response to Marcus and Davis (2013). *Psychological Science*, 26(4), 539–541. [http://doi.org/10.1177/0956797614559544](http://doi.org/10.1177/0956797614559544)  
   [[pdf](/publications/pdf/Goodman2015-Relevant_and_robust_A_response_to.pdf)]
@@ -50,6 +50,7 @@ sharing: false
 * Hamrick, J. B., Battaglia, P. W., & Tenenbaum, J. B. (2011). Internal physics models guide probabilistic judgments about object dynamics. In L. Carlson, C. Holscher & T. Shipley (Eds.), *Proceedings of the 33rd Annual Conference of the Cognitive Science Society*. Austin, TX.  
   [[abstract](http://mindmodeling.org/cogsci2011/papers/0350/index.html)]
   [[pdf](http://mindmodeling.org/cogsci2011/papers/0350/paper0350.pdf)]
+  [[slides](http://figshare.com/articles/Intuitive_physics_judgments_guided_by_probabilistic_dynamics_model/768508)]
 
 #### Presentations
 
@@ -63,11 +64,11 @@ sharing: false
   [[video](http://www.pyvideo.org/video/2655/games-for-science-creating-interactive-psycholog)]
 
 * Hamrick, J. B. (2013, November). Rewriting Python Docstrings with a Metaclass. Talk presented at the San Francisco Python Meetup.  
-  [<a href="/publications/slides/sfpython2013/metaclasses-slides.slides.html?transition=none" target="_blank">html slides</a> <img src="/images/external.png" alt="opens in new window" class="external" />]
+  [<a href="http://jhamrick.github.io/sfpython-2013/?transition=none" target="_blank">html slides</a> <img src="/images/external.png" alt="opens in new window" class="external" />]
   [[video](https://www.youtube.com/watch?v=ZrUIRSVv1gw)]
 
 * Hamrick, J. B., Battaglia, P. W., Griffiths, T. L., & Tenenbaum, J. B. (2013, August). Inferring mass in complex physical scenes via probabilistic simulation. Talk presented at the 46th Annual Meeting of the Society of Mathematical Psychology. Potsdam, Germany.  
-  [<a href="/publications/slides/mathpsych2013/mathpsych2013-slides.slides.html?transition=none" target="_blank">html slides</a> <img src="/images/external.png" alt="opens in new window" class="external" />]
+  [<a href="http://jhamrick.github.io/mass-inference-mathpsych-2013/?transition=none" target="_blank">html slides</a> <img src="/images/external.png" alt="opens in new window" class="external" />]
   [[screencast](http://figshare.com/articles/Inferring_mass_in_complex_physical_scenes_via_probabilistic_simulation/768506)]
 
 * Hamrick, J. B., Battaglia, P. W., Griffiths, T. L., & Tenenbaum, J. B. (2013, August). Inferring mass in complex physical scenes via probabilistic simulation. Poster presented at the 35th Annual Conference of the Cognitive Science Society. Berlin, Germany.  
@@ -76,10 +77,6 @@ sharing: false
 
 * Hamrick, J. B., Battaglia, P. W., & Tenenbaum, J. B. (2012, May). Physics knowledge aids object perception in dynamic scenes. Poster presented at the Annual Meeting of the Vision Sciences Society. Naples, FL.  
   [[poster](http://figshare.com/articles/Physical_reasoning_in_complex_scenes_is_sensitive_to_mass/768510)]
-
-* Hamrick, J. B., Battaglia, P. W., & Tenenbaum, J. B. (2011, July). Internal physics models guide probabilistic judgments about object dynamics. Talk presented at the 33rd Annual Conference of the Cognitive Science Society. Boston, MA.  
-  [[abstract](http://mindmodeling.org/cogsci2011/papers/0350/index.html)]
-  [[slides](http://figshare.com/articles/Intuitive_physics_judgments_guided_by_probabilistic_dynamics_model/768508)]
 
 * Battaglia, P. W., Hamrick, J. B., & Tenenbaum, J. B. (2012, May). Intuitive mechanics guides reasoning about complex scenes and unknown forces. Poster presented by P. W. Battaglia at the Annual Meeting of the Vision Sciences Society. Naples, FL.  
   [[poster](/publications/pdf/Battaglia2012-Intuitive_mechanics_guides_reaso.pdf)]
