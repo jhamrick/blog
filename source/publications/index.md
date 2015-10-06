@@ -7,7 +7,7 @@ sharing: false
 
 #### Peer-reviewed articles
 
-* Gureckis, T. M., Martin, J., McDonnell, J., Alexander, R. S., Markant, D. B., Coenen, A., Hamrick, J. B., & Chan, P. (2015, in press). psiTurk: An open-source framework for conducting replicable behavioral experiments online. *Behavioral Research Methods*.  
+* Gureckis, T. M., Martin, J., McDonnell, J., Alexander, R. S., Markant, D. B., Coenen, A., Hamrick, J. B., & Chan, P. (2015, in press). psiTurk: An open-source framework for conducting replicable behavioral experiments online. *Behavioral Research Methods*.  doi: [10.3758/s13428-015-0642-8](http://dx.doi.org/10.3758/s13428-015-0642-8)  
   [[pdf](/publications/pdf/GureckisetalpsiTurk2015.pdf)]
 
 * Hamrick, J. B., Smith, K. A., Griffiths, T. L., & Vul, E. (2015). Think again? The amount of mental simulation tracks uncertainty in the outcome. In *Proceedings of the 37th Annual Conference of the Cognitive Science Society*. Austin, TX.  
@@ -15,7 +15,7 @@ sharing: false
   [[pdf](/publications/pdf/Hamrick2015-Think_again_the_amount_of_mental_simulation.pdf)]
   [[ppt slides](http://figshare.com/articles/Think_again_The_amount_of_mental_simulation_tracks_uncertainty_in_the_outcome/1554893)]
 
-* Goodman, N. D., Frank, M. C., Griffiths, T. L., Tenenbaum, J. B., Battaglia, P. W., & Hamrick, J. B. (2015). Relevant and Robust : A Response to Marcus and Davis (2013). *Psychological Science*, 26(4), 539–541. [http://doi.org/10.1177/0956797614559544](http://doi.org/10.1177/0956797614559544)  
+* Goodman, N. D., Frank, M. C., Griffiths, T. L., Tenenbaum, J. B., Battaglia, P. W., & Hamrick, J. B. (2015). Relevant and Robust : A Response to Marcus and Davis (2013). *Psychological Science*, 26(4), 539–541. doi: [10.1177/0956797614559544](http://doi.org/10.1177/0956797614559544)  
   [[pdf](/publications/pdf/Goodman2015-Relevant_and_robust_A_response_to.pdf)]
 
 * Lieder, F., Hamrick, J. B., Hay, N. J., Plunkett, D., Russell, S. J., & Griffiths, T. L. (2014). Algorithm selection by rational metareasoning as a model of human strategy selection. In Z. Ghahramani, M. Welling, C. Cortes, N. D. Lawrence, & K. Q. Weinberger (Eds.), *Advances in Neural Information Processing Systems 27* (pp. 2870–2878).  
@@ -27,11 +27,7 @@ sharing: false
   [[pdf](/publications/pdf/Hamrick2014-What_to_simulate_Inferring_the_rig.pdf)]
   [<a href="http://jhamrick.github.io/mental-rotation-slides-cogsci2014" target="_blank">html slides</a> <img src="/images/external.png" alt="opens in new window" class="external" />]
 
-* Hamrick, J. B., & Griffiths, T. L. (2013). Mental Rotation as Bayesian Quadrature. In the Bayesian Optimization Workshop at NIPS 2013.  
-  [[pdf](/publications/pdf/Hamrick2013-Mental_Rotation_as_Bayesian_Quadra.pdf)]
-  [[poster](http://figshare.com/articles/Mental_Rotation_as_Bayesian_Quadrature/900394)]
-  
-* Battaglia, P. W., Hamrick, J. B., & Tenenbaum, J. B. (2013). Simulation as an engine of physical scene understanding. *Proceedings of the National Academy of Sciences*, 110(45), 18327—18332.  
+* Battaglia, P. W., Hamrick, J. B., & Tenenbaum, J. B. (2013). Simulation as an engine of physical scene understanding. *Proceedings of the National Academy of Sciences*, 110(45), 18327—18332.  doi: [10.1073/pnas.1306572110](http://dx.doi.org/10.1073/pnas.1306572110)  
   [[abstract](http://www.pnas.org/content/110/45/18327.abstract)]
   [[pdf+supplemental](/publications/pdf/Battaglia2013-Simulation_as_an_engine_of_physi.pdf)]
   [[PNAS featured image](http://www.pnas.org/site/media/Featured_Image_stone.xhtml)]
@@ -51,6 +47,16 @@ sharing: false
   [[abstract](http://mindmodeling.org/cogsci2011/papers/0350/index.html)]
   [[pdf](http://mindmodeling.org/cogsci2011/papers/0350/paper0350.pdf)]
   [[slides](http://figshare.com/articles/Intuitive_physics_judgments_guided_by_probabilistic_dynamics_model/768508)]
+
+#### Other articles
+
+* Hamrick, J. B., & Griffiths, T. L. (2013). Mental Rotation as Bayesian Quadrature. In the Bayesian Optimization Workshop at NIPS 2013.  
+  [[pdf](/publications/pdf/Hamrick2013-Mental_Rotation_as_Bayesian_Quadra.pdf)]
+  [[poster](http://figshare.com/articles/Mental_Rotation_as_Bayesian_Quadrature/900394)]
+
+* Hamrick, J. B. (2012). Physical Reasoning in Complex Scenes is Sensitive to Mass (Master’s thesis).  
+  [[abstract](http://dspace.mit.edu/handle/1721.1/77012)]
+  [[pdf](/publications/pdf/Hamrick2012-Physical_Reasoning_in_Complex_Scen.pdf)]
 
 #### Presentations
 
@@ -83,9 +89,3 @@ sharing: false
 
 * Battaglia, P. W., Hamrick, J. B., & Tenenbaum, J. B. (2011, May). Human stability perception implies sophisticated knowledge of physical dynamics. Poster presented by P.W. Battaglia at the Annual Meeting of the Vision Sciences Society. Naples, FL.  
   [[poster](/publications/pdf/Battaglia2011-Human_stability_perception_impli.pdf)]
-
-#### Other articles
-
-* Hamrick, J. B. (2012). Physical Reasoning in Complex Scenes is Sensitive to Mass (Master’s thesis).  
-  [[abstract](http://dspace.mit.edu/handle/1721.1/77012)]
-  [[pdf](/publications/pdf/Hamrick2012-Physical_Reasoning_in_Complex_Scen.pdf)]
