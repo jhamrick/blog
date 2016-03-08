@@ -32,6 +32,9 @@ rather than an alternative? How do we determine *what* simulations to
 run? *How many* simulations should we run, and for *how long*? My
 research attempts to answer these questions through a combination of
 rational analysis, formal mathematical modeling, and psychophysical
-experiments. 
+experiments.
 
-For more details, please see my [publications](/publications).
+For more details, please see my [publications](/publications). I have also given
+a somewhat more accessible interview on the [Data
+Skeptic podcast](http://dataskeptic.com/epnotes/models-of-mental-simulation.php)
+about some of my research.
