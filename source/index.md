@@ -15,11 +15,16 @@ intuitive physics in Josh Tenenbaum's
  [1]: http://cocosci.berkeley.edu/
  [2]: http://web.mit.edu/cocosci/
 
-My [research](/research) focuses on understanding mental simulation
-from a computational perspective. For details, please see my
+I study human cognition by combining probabilistic models from machine learning
+with behavioral experiments from cognitive science. My [research](/research)
+focuses specifically on understanding mental simulation from a computational,
+resource-rational perspective. For details, please see my
 [publications](/publications).
 
-Additionally, I am a strong advocate for open source, open access, and
-open data in science. When I have time, I help out with the occasional
-[Software Carpentry](http://software-carpentry.org/) workshop, and
-contribute to a number of [open source projects](/software).
+Additionally, I am a strong advocate for open source, open access, and open data
+in science. I am a core contributor to the [Jupyter](http://jupyter.org/)
+project and lead maintainer of
+[nbgrader](https://github.com/jupyter/nbgrader#nbgrader), which is a tool for
+creating and grading assignments in the Jupyter notebook. When I have time, I
+help out with the occasional [Software Carpentry](http://software-carpentry.org/)
+workshop and contribute to a number of other [open source projects](/software).
