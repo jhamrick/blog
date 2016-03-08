@@ -7,7 +7,10 @@ sharing: false
 
 #### Peer-reviewed articles
 
-* Gureckis, T. M., Martin, J., McDonnell, J., Alexander, R. S., Markant, D. B., Coenen, A., Hamrick, J. B., & Chan, P. (2015, in press). psiTurk: An open-source framework for conducting replicable behavioral experiments online. *Behavioral Research Methods*.  doi: [10.3758/s13428-015-0642-8](http://dx.doi.org/10.3758/s13428-015-0642-8)  
+* Liu, C., Hamrick, J. B., Fisac, J. F., Dragan, A. D., Hedrick, J. K., Sastry, S. S., & Griffiths, T. L. (in press). Goal Inference Improves Objective and Perceived Performance in Human-Robot Collaboration. In J. Thangarajah, K. Tuyls, C. Jonker, & S. Marsella (Eds.), *Proceedings of the 15th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2016)*.  
+  [[pdf](/publications/pdf/Liu2016-Goal_Inference_Improves_Objective.pdf)]
+
+* Gureckis, T. M., Martin, J., McDonnell, J., Alexander, R. S., Markant, D. B., Coenen, A., Hamrick, J. B., & Chan, P. (in press). psiTurk: An open-source framework for conducting replicable behavioral experiments online. *Behavioral Research Methods*.  doi: [10.3758/s13428-015-0642-8](http://dx.doi.org/10.3758/s13428-015-0642-8)  
   [[pdf](/publications/pdf/GureckisetalpsiTurk2015.pdf)]
 
 * Hamrick, J. B., Smith, K. A., Griffiths, T. L., & Vul, E. (2015). Think again? The amount of mental simulation tracks uncertainty in the outcome. In *Proceedings of the 37th Annual Conference of the Cognitive Science Society*. Austin, TX.  
@@ -15,7 +18,7 @@ sharing: false
   [[pdf](/publications/pdf/Hamrick2015-Think_again_the_amount_of_mental_simulation.pdf)]
   [[ppt slides](http://figshare.com/articles/Think_again_The_amount_of_mental_simulation_tracks_uncertainty_in_the_outcome/1554893)]
 
-* Goodman, N. D., Frank, M. C., Griffiths, T. L., Tenenbaum, J. B., Battaglia, P. W., & Hamrick, J. B. (2015). Relevant and Robust : A Response to Marcus and Davis (2013). *Psychological Science*, 26(4), 539–541. doi: [10.1177/0956797614559544](http://doi.org/10.1177/0956797614559544)  
+* Goodman, N. D., Frank, M. C., Griffiths, T. L., Tenenbaum, J. B., Battaglia, P. W., & Hamrick, J. B. (2015). Relevant and Robust: A Response to Marcus and Davis (2013). *Psychological Science*, 26(4), 539–541. doi: [10.1177/0956797614559544](http://doi.org/10.1177/0956797614559544)  
   [[pdf](/publications/pdf/Goodman2015-Relevant_and_robust_A_response_to.pdf)]
 
 * Lieder, F., Hamrick, J. B., Hay, N. J., Plunkett, D., Russell, S. J., & Griffiths, T. L. (2014). Algorithm selection by rational metareasoning as a model of human strategy selection. In Z. Ghahramani, M. Welling, C. Cortes, N. D. Lawrence, & K. Q. Weinberger (Eds.), *Advances in Neural Information Processing Systems 27* (pp. 2870–2878).  
@@ -26,6 +29,10 @@ sharing: false
   [[abstract](https://mindmodeling.org/cogsci2014/papers/108/)]
   [[pdf](/publications/pdf/Hamrick2014-What_to_simulate_Inferring_the_rig.pdf)]
   [<a href="http://jhamrick.github.io/mental-rotation-slides-cogsci2014" target="_blank">html slides</a> <img src="/images/external.png" alt="opens in new window" class="external" />]
+
+* Hamrick, J. B., & Griffiths, T. L. (2013). Mental Rotation as Bayesian Quadrature. In the Bayesian Optimization Workshop at NIPS 2013.  
+  [[pdf](/publications/pdf/Hamrick2013-Mental_Rotation_as_Bayesian_Quadra.pdf)]
+  [[poster](http://figshare.com/articles/Mental_Rotation_as_Bayesian_Quadrature/900394)]
 
 * Battaglia, P. W., Hamrick, J. B., & Tenenbaum, J. B. (2013). Simulation as an engine of physical scene understanding. *Proceedings of the National Academy of Sciences*, 110(45), 18327—18332.  doi: [10.1073/pnas.1306572110](http://dx.doi.org/10.1073/pnas.1306572110)  
   [[abstract](http://www.pnas.org/content/110/45/18327.abstract)]
@@ -50,15 +57,26 @@ sharing: false
 
 #### Other articles
 
-* Hamrick, J. B., & Griffiths, T. L. (2013). Mental Rotation as Bayesian Quadrature. In the Bayesian Optimization Workshop at NIPS 2013.  
-  [[pdf](/publications/pdf/Hamrick2013-Mental_Rotation_as_Bayesian_Quadra.pdf)]
-  [[poster](http://figshare.com/articles/Mental_Rotation_as_Bayesian_Quadrature/900394)]
+* Hamrick, J. B. (in press). A Rejection Sampler. In M. DiBernardo & A. Brown (Eds.), *The Architecture of Open Source Applications, Volume 4: 500 Lines or Less*.  
+  [[html](http://aosabook.org/en/500L/a-rejection-sampler.html)]
 
 * Hamrick, J. B. (2012). Physical Reasoning in Complex Scenes is Sensitive to Mass (Master’s thesis).  
   [[abstract](http://dspace.mit.edu/handle/1721.1/77012)]
   [[pdf](/publications/pdf/Hamrick2012-Physical_Reasoning_in_Complex_Scen.pdf)]
 
 #### Presentations
+
+* Hamrick, J. B. (2016, March). Creating and Grading Assignments in the IPython/Jupyter Notebook with nbgrader. Demo presented at SIGCSE 2016. Memphis, TN.  
+  [<a href="http://jhamrick.github.io/sigcse-2016-slides" target="_blank">html slides</a> <img src="/images/external.png" alt="opens in new window" class="external" />]
+
+* Hamrick, J. B. (2015, December). Thing again? Bounded optimality in decisions from internally generated evidence. Invited talk presented at the Bounded Optimality and Rational Metareasoning Workshop, NIPS 2015. Montreal, Canada.  
+  [[ppt](https://figshare.com/articles/Thing_again_Bounded_optimality_in_decisions_from_internally_generated_evidence/3085906)]
+
+* Hamrick, J. B. (2015, November). Teaching with Jupyter Notebooks. Invited talk presented at CodeNeuro 2015. San Francisco, CA.  
+  [<a href="http://jhamrick.github.io/codeneuro-sf-2015-slides" target="_blank">html slides</a> <img src="/images/external.png" alt="opens in new window" class="external" />]
+
+* Hamrick, J. B., Smith, K. A., Griffiths, T. L., & Vul, E. (2015, July). Think again? The amount of mental simulation tracks uncertainty in the outcome. Talk presented at the 37th Annual Conference of the Cognitive Science Society. Austin, TX.  
+  [[ppt](https://figshare.com/articles/Think_again_The_amount_of_mental_simulation_tracks_uncertainty_in_the_outcome/1554893)]
 
 * Hamrick, J. B., Ragan-Kelley, M., & Kelley, K. (2015, July). Teaching with IPython/Jupyter Notebooks and JupyterHub. Talk presented at SciPy 2015. Austin, TX.  
   [[video](https://www.youtube.com/watch?v=OuhtpxGuboY)]
