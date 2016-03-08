@@ -35,6 +35,5 @@ rational analysis, formal mathematical modeling, and psychophysical
 experiments.
 
 For more details, please see my [publications](/publications). I have also given
-a somewhat more accessible interview on the [Data
-Skeptic podcast](http://dataskeptic.com/epnotes/models-of-mental-simulation.php)
+a somewhat more accessible interview on the [Data Skeptic podcast](http://dataskeptic.com/epnotes/models-of-mental-simulation.php)
 about some of my research.
