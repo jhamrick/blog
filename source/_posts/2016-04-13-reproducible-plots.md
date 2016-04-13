@@ -2,7 +2,7 @@
 title: "Creating Reproducible, Publication-Quality Plots with Matplotlib and Seaborn"
 layout: post
 comments: true
-date: 2016-04-13 15:54:53
+date: 2016-04-13 16:04:52
 permalink: /2016/04/13/reproducible-plots
 categories:
   - programming
@@ -19,6 +19,10 @@ tags:
   - scientific programming
   - tutorial
 ---
+
+
+**Update:** this post was created from a Jupyter notebook, which you can access [here](https://nbviewer.jupyter.org/github/jhamrick/blog/blob/master/source/notebooks/reproducible-plots.ipynb).
+
 
 
 How should you create a plot for inclusion in a publication? A common workflow for Matlab or Python users—and one that I used to use myself—is to create a figure just using the defaults, export it as SVG, and open it Inkscape or Illustrator to make it look nice.
@@ -225,7 +229,7 @@ def plot_v1(data):
 plot_v1(tasks);
 {% endhighlight %}
 
-![png]({{ site.baseurl }}/notebooks/reproducible-plots_files/reproducible-plots_15_0.png)
+![png]({{ site.baseurl }}/notebooks/reproducible-plots_files/reproducible-plots_16_0.png)
 
 
 
@@ -259,7 +263,7 @@ Let's see how this plot changes, just with Seaborn's default style:
 plot_v1(tasks);
 {% endhighlight %}
 
-![png]({{ site.baseurl }}/notebooks/reproducible-plots_files/reproducible-plots_21_0.png)
+![png]({{ site.baseurl }}/notebooks/reproducible-plots_files/reproducible-plots_22_0.png)
 
 
 
@@ -296,7 +300,7 @@ def plot_v2(data):
 plot_v2(task_data);
 {% endhighlight %}
 
-![png]({{ site.baseurl }}/notebooks/reproducible-plots_files/reproducible-plots_25_0.png)
+![png]({{ site.baseurl }}/notebooks/reproducible-plots_files/reproducible-plots_26_0.png)
 
 
 
@@ -339,7 +343,7 @@ def plot_v3(data):
 plot_v3(task_data);
 {% endhighlight %}
 
-![png]({{ site.baseurl }}/notebooks/reproducible-plots_files/reproducible-plots_28_0.png)
+![png]({{ site.baseurl }}/notebooks/reproducible-plots_files/reproducible-plots_29_0.png)
 
 
 
@@ -383,7 +387,7 @@ fig, axes = plot_v3(task_data)
 set_labels(fig, axes)
 {% endhighlight %}
 
-![png]({{ site.baseurl }}/notebooks/reproducible-plots_files/reproducible-plots_30_0.png)
+![png]({{ site.baseurl }}/notebooks/reproducible-plots_files/reproducible-plots_31_0.png)
 
 
 
@@ -418,7 +422,7 @@ fig, axes = plot_v3(task_data)
 set_labels(fig, axes)
 {% endhighlight %}
 
-![png]({{ site.baseurl }}/notebooks/reproducible-plots_files/reproducible-plots_33_0.png)
+![png]({{ site.baseurl }}/notebooks/reproducible-plots_files/reproducible-plots_34_0.png)
 
 
 
@@ -452,7 +456,7 @@ Seaborn comes with a nice convenience function for showing a set of colors, call
 sns.palplot(get_colors())
 {% endhighlight %}
 
-![png]({{ site.baseurl }}/notebooks/reproducible-plots_files/reproducible-plots_38_0.png)
+![png]({{ site.baseurl }}/notebooks/reproducible-plots_files/reproducible-plots_39_0.png)
 
 
 
@@ -491,7 +495,7 @@ set_labels(fig, axes)
 color_bars(axes, get_colors())
 {% endhighlight %}
 
-![png]({{ site.baseurl }}/notebooks/reproducible-plots_files/reproducible-plots_40_0.png)
+![png]({{ site.baseurl }}/notebooks/reproducible-plots_files/reproducible-plots_41_0.png)
 
 
 
@@ -517,7 +521,7 @@ color_bars(axes, get_colors())
 set_size(fig)
 {% endhighlight %}
 
-![png]({{ site.baseurl }}/notebooks/reproducible-plots_files/reproducible-plots_43_0.png)
+![png]({{ site.baseurl }}/notebooks/reproducible-plots_files/reproducible-plots_44_0.png)
 
 
 
