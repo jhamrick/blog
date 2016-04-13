@@ -2,7 +2,7 @@
 title: "Creating Reproducible, Publication-Quality Plots with Matplotlib and Seaborn"
 layout: post
 comments: true
-date: 2016-04-13 14:27:58
+date: 2016-04-13 15:54:53
 permalink: /2016/04/13/reproducible-plots
 categories:
   - programming
@@ -81,7 +81,7 @@ print("Downloaded task_data.csv")
 
 
 
-The data are from a recent publication of mine in which we were studying human-robot collaboration. Specifically, we looked at how different robot behaviors affected the completion of a set of tasks, both in terms of objective measures (such as completion time, or how equally the robot and human shared tasks) and subjective measures of preferences. In our experiment, we had three different robot behaviors (*fixed*, *reactive*, and *predictive*), and two different ways the robot obtained information about the human's goals (*oracle*, in which the robot had perfect knowledge, and *Bayesian*, in which the robot infer the human's goals based on their motion). For further details on the experimental design, please check out [the paper](http://www.jesshamrick.com/publications/pdf/Liu2016-Goal_Inference_Improves_Objective.pdf).
+The data are from a recent publication of mine in which we were studying human-robot collaboration. Specifically, we looked at how different robot behaviors affected the completion of a set of tasks, both in terms of objective measures (such as completion time, or how equally the robot and human shared tasks) and subjective measures of preferences. In our experiment, we had three different robot behaviors (*fixed*, *reactive*, and *predictive*), and two different ways the robot obtained information about the human's goals (*oracle*, in which the robot had perfect knowledge, and *Bayesian*, in which the robot infers the human's goals based on their motion). For further details on the experimental design, please check out [the paper](http://www.jesshamrick.com/publications/pdf/Liu2016-Goal_Inference_Improves_Objective.pdf).
 
 Here, I'll be taking a look at the objective measure of how many tasks the robot completed. The data includes information about how many tasks the human completed, how many the robot completed, and how many were completed simultaneously by both agents:
 
@@ -325,7 +325,7 @@ def plot_v3(data):
         "robot", "robot_tasks", "inference",
         hue_order=["oracle", "bayesian"])
 
-    # Now I need to draw our 50% lines on each subplot
+    # Now I need to draw the 50% lines on each subplot
     # separately
     axes = np.array(g.axes.flat)
     for ax in axes:
@@ -351,7 +351,7 @@ Nice! But the labels are still not actually how I'd like them. I'll create a new
 {% highlight python %}
 def set_labels(fig, axes):
     # These are the labels of each subplot
-    labels = ["Fixed", "Predictive", "Reactive"]
+    labels = ["Fixed", "Reactive", "Predictive"]
     
     # Iterate over each subplot and set the labels
     for i, ax in enumerate(axes):
@@ -531,7 +531,7 @@ That's it! It may seem like a lot to learn to create just a single plot, but muc
 * Set the x- and y-axis tick locations and labels
 * Set the x- and y-axis labels
 * Set the subplot and/or figure titles
-* Remove the top and left spines
+* Remove the top and right spines
 * Remove visual tick marks
 * Set the style to be "white" and the context to be "paper"
 * Set the figure size and call `plt.tight_layout()`
