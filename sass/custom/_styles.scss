@@ -155,3 +155,15 @@ img.external {
     box-shadow: none;
     border-radius: 0;
 }
+
+table.dataframe {
+    border: 1px solid;
+    margin-bottom: 1.5em;
+    background-color: white;
+
+    tr, th, td {
+        border: 1px solid;
+        margin: 1em 2em;
+        padding: 0.25em 0.5em;
+    }
+}
