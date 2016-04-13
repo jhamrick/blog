@@ -2,7 +2,7 @@
 title: "Creating Reproducible, Publication-Quality Plots with Matplotlib and Seaborn"
 layout: post
 comments: true
-date: 2016-04-13 16:15:45
+date: 2016-04-13 16:43:13
 permalink: /2016/04/13/reproducible-plots
 categories:
   - programming
@@ -66,7 +66,7 @@ print("numpy version: {}".format(np.__version__))
     
     matplotlib version: 1.5.1
     pandas version: 0.17.1
-    numpy version: 1.10.4
+    numpy version: 1.11.0
 
 
 
@@ -427,6 +427,52 @@ set_labels(fig, axes)
 
 
 
+**Update**: [It's been pointed out to me](https://twitter.com/tacaswell/status/720390268558520321) that matplotlib actually [now ships with the seaborn styles](http://matplotlib.org/users/style_sheets.html)! Here's how you can tell what styles are available:
+
+
+
+{% highlight python %}
+plt.style.available
+{% endhighlight %}
+
+
+
+    ['seaborn-bright',
+     'seaborn-darkgrid',
+     'seaborn-white',
+     'ggplot',
+     'seaborn-dark',
+     'seaborn-muted',
+     'seaborn-notebook',
+     'seaborn-paper',
+     'classic',
+     'grayscale',
+     'seaborn-whitegrid',
+     'fivethirtyeight',
+     'bmh',
+     'seaborn-ticks',
+     'seaborn-dark-palette',
+     'seaborn-pastel',
+     'dark_background',
+     'seaborn-deep',
+     'seaborn-colorblind',
+     'seaborn-talk',
+     'seaborn-poster']
+
+
+
+
+
+So, rather than the function above, I could have something like:
+
+```python
+def set_style():
+    plt.style.use(['seaborn-white', 'seaborn-paper'])
+    matplotlib.rc("font", family="Times New Roman")
+```
+
+
+
 ## Colors
 
 
@@ -456,7 +502,7 @@ Seaborn comes with a nice convenience function for showing a set of colors, call
 sns.palplot(get_colors())
 {% endhighlight %}
 
-![png]({{ site.baseurl }}/notebooks/reproducible-plots_files/reproducible-plots_39_0.png)
+![png]({{ site.baseurl }}/notebooks/reproducible-plots_files/reproducible-plots_42_0.png)
 
 
 
@@ -495,7 +541,7 @@ set_labels(fig, axes)
 color_bars(axes, get_colors())
 {% endhighlight %}
 
-![png]({{ site.baseurl }}/notebooks/reproducible-plots_files/reproducible-plots_41_0.png)
+![png]({{ site.baseurl }}/notebooks/reproducible-plots_files/reproducible-plots_44_0.png)
 
 
 
@@ -521,7 +567,7 @@ color_bars(axes, get_colors())
 set_size(fig)
 {% endhighlight %}
 
-![png]({{ site.baseurl }}/notebooks/reproducible-plots_files/reproducible-plots_44_0.png)
+![png]({{ site.baseurl }}/notebooks/reproducible-plots_files/reproducible-plots_47_0.png)
 
 
 
