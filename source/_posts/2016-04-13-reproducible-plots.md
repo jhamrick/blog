@@ -2,7 +2,7 @@
 title: "Creating Reproducible, Publication-Quality Plots with Matplotlib and Seaborn"
 layout: post
 comments: true
-date: 2016-04-13 16:04:52
+date: 2016-04-13 16:15:45
 permalink: /2016/04/13/reproducible-plots
 categories:
   - programming
@@ -362,7 +362,7 @@ def set_labels(fig, axes):
 
         # Set the x-axis ticklabels
         ax.set_xticks([-.2, .2])
-        ax.set_xticklabels(["Bayesian", "Oracle"])
+        ax.set_xticklabels(["Oracle", "Bayesian"])
 
         # Set the label for each subplot
         ax.set_xlabel(labels[i])
