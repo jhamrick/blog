@@ -14,11 +14,11 @@ I am currently a member of the [Jupyter Steering Council](https://github.com/ipy
   IPython notebook.
 * [Jupyter/IPython](http://jupyter.org/), an architecture for interactive
   computing.
+* [nbflow](https://github.com/jhamrick/nbflow) (primary maintainer), a tool that
+  supports one-button reproducible workflows with the Jupyter Notebook and
+  Scons.
 * [psiTurk](http://psiturk.org/), a platform for running psychological
   experiments on Amazon's Mechanical Turk.
-* [datapackage](https://github.com/tryggvib/datapackage), a Python
-  library for interacting with
-  [data packages](http://dataprotocols.org/data-packages/).
 * [scenesim](http://web.mit.edu/~pbatt/www/scenesim-doc/), a Python
   library for simulating and rendering physical scenes.
 
