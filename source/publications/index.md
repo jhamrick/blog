@@ -21,7 +21,7 @@ sharing: false
 * Goodman, N. D., Frank, M. C., Griffiths, T. L., Tenenbaum, J. B., Battaglia, P. W., & Hamrick, J. B. (2015). Relevant and Robust: A Response to Marcus and Davis (2013). *Psychological Science*, 26(4), 539–541. doi: [10.1177/0956797614559544](http://doi.org/10.1177/0956797614559544)  
   [[pdf](/publications/pdf/Goodman2015-Relevant_and_robust_A_response_to.pdf)]
 
-* Lieder, F., Hamrick, J. B., Hay, N. J., Plunkett, D., Russell, S. J., & Griffiths, T. L. (2014). Algorithm selection by rational metareasoning as a model of human strategy selection. In Z. Ghahramani, M. Welling, C. Cortes, N. D. Lawrence, & K. Q. Weinberger (Eds.), *Advances in Neural Information Processing Systems 27* (pp. 2870–2878).  
+* Lieder, F., Plunkett, D., Hamrick, J. B., Russell, S. J., Hay, N. J., & Griffiths, T. L. (2014). Algorithm selection by rational metareasoning as a model of human strategy selection. In Z. Ghahramani, M. Welling, C. Cortes, N. D. Lawrence, & K. Q. Weinberger (Eds.), *Advances in Neural Information Processing Systems 27* (pp. 2870–2878).  
   [[abstract](http://papers.nips.cc/paper/5552-algorithm-selection-by-rational-metareasoning-as-a-model-of-human-strategy-selection)]
   [[pdf](/publications/pdf/Lieder2014-Algorithm_selection_by_rational_metareasoning.pdf)]
 
