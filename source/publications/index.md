@@ -7,10 +7,13 @@ sharing: false
 
 #### Peer-reviewed articles
 
-* Liu, C., Hamrick, J. B., Fisac, J. F., Dragan, A. D., Hedrick, J. K., Sastry, S. S., & Griffiths, T. L. (in press). Goal Inference Improves Objective and Perceived Performance in Human-Robot Collaboration. In J. Thangarajah, K. Tuyls, C. Jonker, & S. Marsella (Eds.), *Proceedings of the 15th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2016)*.  
+* Hamrick, J. B., Battaglia, P. W., Griffiths, T. L., & Tenenbaum, J. B. (in press). Inferring Mass in Complex Scenes by Mental Simulation. *Cognition*.  
+  [[pdf](/publications/pdf/Hamrick2016-Inferring_Mass_In_Complex_Scenes.pdf)]
+
+* Liu, C., Hamrick, J. B., Fisac, J. F., Dragan, A. D., Hedrick, J. K., Sastry, S. S., & Griffiths, T. L. (2016). Goal Inference Improves Objective and Perceived Performance in Human-Robot Collaboration. In J. Thangarajah, K. Tuyls, C. Jonker, & S. Marsella (Eds.), *Proceedings of the 15th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2016)*.  
   [[pdf](/publications/pdf/Liu2016-Goal_Inference_Improves_Objective.pdf)]
 
-* Gureckis, T. M., Martin, J., McDonnell, J., Alexander, R. S., Markant, D. B., Coenen, A., Hamrick, J. B., & Chan, P. (in press). psiTurk: An open-source framework for conducting replicable behavioral experiments online. *Behavioral Research Methods*.  doi: [10.3758/s13428-015-0642-8](http://dx.doi.org/10.3758/s13428-015-0642-8)  
+* Gureckis, T. M., Martin, J., McDonnell, J., Alexander, R. S., Markant, D. B., Coenen, A., Hamrick, J. B., & Chan, P. (2015). psiTurk: An open-source framework for conducting replicable behavioral experiments online. *Behavioral Research Methods*.  doi: [10.3758/s13428-015-0642-8](http://dx.doi.org/10.3758/s13428-015-0642-8)  
   [[pdf](/publications/pdf/GureckisetalpsiTurk2015.pdf)]
 
 * Hamrick, J. B., Smith, K. A., Griffiths, T. L., & Vul, E. (2015). Think again? The amount of mental simulation tracks uncertainty in the outcome. In *Proceedings of the 37th Annual Conference of the Cognitive Science Society*. Austin, TX.  
