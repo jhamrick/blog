@@ -28,6 +28,11 @@ sharing: false
   [[PNAS featured image](http://www.pnas.org/site/media/Featured_Image_stone.xhtml)]
   [[project page](http://web.mit.edu/~pbatt/www/PNAS2013)]  
 
+  (see also the popular science articles from
+  [Scientific American](http://www.scientificamerican.com/article/the-video-game-engine-in-your-head)
+  and
+  [Fast Company](http://www.fastcodesign.com/3022236/evidence/how-our-brains-play-angry-birds-with-the-world))
+
 #### Refereed Conference Proceedings
 
 * Fisac\*, J. F., Liu\*, C., Hamrick\*, J. B., Sastry, S., Hedrick, J. K., Griffiths, T. L., & Dragan, A. D. (2016). Generating plans that predict themselves. In *Proceedings of the 12th International Workshop on the Algorithmic Foundations of Robotics (WAFR 2016)*.  
@@ -58,11 +63,6 @@ sharing: false
 * Hamrick, J. B., & Griffiths, T. L. (2013). Mental Rotation as Bayesian Quadrature. In the Bayesian Optimization Workshop at NIPS 2013.  
   [[pdf](/publications/pdf/Hamrick2013-Mental_Rotation_as_Bayesian_Quadra.pdf)]
   [[poster](http://figshare.com/articles/Mental_Rotation_as_Bayesian_Quadrature/900394)]
-
-  (see also the popular science articles from
-  [Scientific American](http://www.scientificamerican.com/article/the-video-game-engine-in-your-head)
-  and
-  [Fast Company](http://www.fastcodesign.com/3022236/evidence/how-our-brains-play-angry-birds-with-the-world))
 
 * Abbott, J. T., Hamrick, J. B., & Griffiths, T. L. (2013). Approximating Bayesian inference with a sparse distributed memory system. In M. Knauff, M. Pauen, N. Sebanz & I. Wachsmuth (Eds.), *Proceedings of the 35th Annual Conference of the Cognitive Science Society*. Austin, TX.  
   [[abstract](http://mindmodeling.org/cogsci2013/papers/0316/index.html)]
