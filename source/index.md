@@ -5,7 +5,7 @@ layout: page
 sharing: false
 ---
 
-<img src="/images/badge.png" style="float:right; margin: 1em 0em 2em 2em;" />
+<img src="/images/badge.jpg" style="float:right; margin: 1em 0em 2em 2em; width: 300px" />
 
 I am a PhD student at UC Berkeley in Tom Griffiths'
 [Computational Cognitive Science Lab][1]. Previously, I researched
