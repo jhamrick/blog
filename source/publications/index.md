@@ -7,7 +7,7 @@ sharing: false
 
 #### In Preparation, Under Review, or In Revision
 
-* Hamrick, J. B., Pascanu, R., Vinyals, O., Ballard, A., Heess, N., & Battaglia, P. W. (under review). Metareasoning for cooperative model-free and model-based learning.
+* Hamrick, J. B., Ballard, A. J., Pascanu, R., Vinyals, O., Heess, N., & Battaglia, P. W. (under review). Metacontrol for Adaptive Imagination-Based Optimization.
 
 * Hamrick, J. B., Pascanu, R., Vinyals, O., Ballard, A., Heess, N., & Battaglia, P. W. (in revision). Imagination-Based Decision Making with Physical Models in Deep Neural Networks. In *Proceedings of the NIPS 2016 Workshop on Intuitive Physics*.
 
