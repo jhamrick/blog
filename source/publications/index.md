@@ -7,9 +7,9 @@ sharing: false
 
 #### In Preparation, Under Review, or In Revision
 
-* Hamrick, J. B., Ballard, A. J., Pascanu, R., Vinyals, O., Heess, N., & Battaglia, P. W. (under review). Metacontrol for Adaptive Imagination-Based Optimization.
-
-* Hamrick, J. B., Pascanu, R., Vinyals, O., Ballard, A., Heess, N., & Battaglia, P. W. (in revision). Imagination-Based Decision Making with Physical Models in Deep Neural Networks. In *Proceedings of the NIPS 2016 Workshop on Intuitive Physics*.
+* Hamrick, J. B., Ballard, A. J., Pascanu, R., Vinyals, O., Heess, N., & Battaglia, P. W. (under review). Metacontrol for Adaptive Imagination-Based Optimization. Under review at ICLR 2017.  
+  [[abstract](https://openreview.net/forum?id=Bk8BvDqex)]
+  [[pdf](https://openreview.net/pdf?id=Bk8BvDqex)]
 
 #### Journal Articles
 
@@ -38,6 +38,9 @@ sharing: false
 * Fisac\*, J. F., Liu\*, C., Hamrick\*, J. B., Sastry, S., Hedrick, J. K., Griffiths, T. L., & Dragan, A. D. (2016). Generating plans that predict themselves. In *Proceedings of the 12th International Workshop on the Algorithmic Foundations of Robotics (WAFR 2016)*.  
   \*these authors contributed equally  
   [[pdf](/publications/pdf/Fisac2016-Generating_Plans_That_Predict_Themselves.pdf)]
+
+* Hamrick, J. B., Pascanu, R., Vinyals, O., Ballard, A., Heess, N., & Battaglia, P. W. (2016). Imagination-Based Decision Making with Physical Models in Deep Neural Networks. In *Proceedings of the NIPS 2016 Workshop on Intuitive Physics*.  
+  [[pdf](/publications/pdf/Hamrick2016-Imagination_Based_Decision_Making.pdf)]
 
 * Liu\*, C., Hamrick\*, J. B., Fisac\*, J. F., Dragan, A. D., Hedrick, J. K., Sastry, S. S., & Griffiths, T. L. (2016). Goal Inference Improves Objective and Perceived Performance in Human-Robot Collaboration. In J. Thangarajah, K. Tuyls, C. Jonker, & S. Marsella (Eds.), *Proceedings of the 15th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2016)*.  
   \*these authors contributed equally  
