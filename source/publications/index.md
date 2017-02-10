@@ -7,7 +7,9 @@ sharing: false
 
 #### In Preparation, Under Review, or In Revision
 
-* Hamrick, J. B., Ballard, A. J., Pascanu, R., Vinyals, O., Heess, N., & Battaglia, P. W. (under review). Metacontrol for Adaptive Imagination-Based Optimization. Under review at ICLR 2017.  
+* Callaway, F., Hamrick, J. B., & Griffiths, T. L. (submitted). Discovering simple heuristics from mental simulation. Under review at CogSci 2017.
+
+* Hamrick, J. B., Ballard, A. J., Pascanu, R., Vinyals, O., Heess, N., & Battaglia, P. W. (accepted). Metacontrol for Adaptive Imagination-Based Optimization. Proceedings of the 5th International Conference on Learning Representations (ICLR 2017).  
   [[abstract](https://openreview.net/forum?id=Bk8BvDqex)]
   [[pdf](https://openreview.net/pdf?id=Bk8BvDqex)]
 
