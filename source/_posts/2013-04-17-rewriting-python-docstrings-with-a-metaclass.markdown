@@ -17,7 +17,7 @@ tags:
 
 **Update**: I gave a talk based on this post at the November 2013 San
  Francisco Python meetup! Here are the
- [slides](/publications/slides/sfpython2013/metaclasses-slides.slides.html?transition=none)
+ [slides](http://jhamrick.github.io/sfpython-2013/index.html?transition=none)
  and a [video](https://www.youtube.com/watch?v=ZrUIRSVv1gw) of the
  talk.
 
