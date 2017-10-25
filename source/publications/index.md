@@ -7,11 +7,9 @@ sharing: false
 
 #### In Preparation, Under Review, or In Revision
 
-* Callaway, F., Hamrick, J. B., & Griffiths, T. L. (submitted). Discovering simple heuristics from mental simulation. Under review at CogSci 2017.
-
-* Hamrick, J. B., Ballard, A. J., Pascanu, R., Vinyals, O., Heess, N., & Battaglia, P. W. (accepted). Metacontrol for Adaptive Imagination-Based Optimization. Proceedings of the 5th International Conference on Learning Representations (ICLR 2017).  
-  [[abstract](https://openreview.net/forum?id=Bk8BvDqex)]
-  [[pdf](https://openreview.net/pdf?id=Bk8BvDqex)]
+* Fisac, J. F., Gates, M. A., Hamrick, J. B., Liu, C., Hadfield-Menell, D., Palaniappan, M., Malik D., Sastry, S., Griffiths, T. L., & Dragan, A. D. (accepted). Pragmatic-Pedagogic Value Alignment. In *Proceedings of the International Symposium on Robotics Research* (ISRR 2017).  
+  [[arXiv](https://arxiv.org/abs/1707.06354)]
+  [[pdf](https://arxiv.org/pdf/1707.06354.pdf)]
 
 #### Journal Articles
 
@@ -36,6 +34,15 @@ sharing: false
   [Fast Company](http://www.fastcodesign.com/3022236/evidence/how-our-brains-play-angry-birds-with-the-world))
 
 #### Refereed Conference Proceedings
+
+* Callaway, F., Hamrick, J. B., & Griffiths, T. L. (2017). Discovering simple heuristics from mental simulation. In G. Gunzelmann, A. Howes, T. Tenbrink, & E. J. Davelaar (Eds.), *Proceedings of the 39th Annual Conference of the Cognitive Science Society*. Austin, TX: Cognitive Science Society.  
+  [[abstract](https://mindmodeling.org/cogsci2017/papers/0332/index.html)]
+  [[pdf](/publications/pdf/Callaway2017-Discovering_simple_heuristics.pdf)]
+
+* Hamrick, J. B., Ballard, A. J., Pascanu, R., Vinyals, O., Heess, N., & Battaglia, P. W. (2017). Metacontrol for Adaptive Imagination-Based Optimization. In *Proceedings of the 5th International Conference on Learning Representations* (ICLR 2017).  
+  [[abstract](https://openreview.net/forum?id=Bk8BvDqex)]
+  [[arXiv](https://arxiv.org/abs/1705.02670)]
+  [[pdf](/publications/pdf/Hamrick2017-Metacontrol_for_adaptive_imagina.pdf)]
 
 * Fisac\*, J. F., Liu\*, C., Hamrick\*, J. B., Sastry, S., Hedrick, J. K., Griffiths, T. L., & Dragan, A. D. (2016). Generating plans that predict themselves. In *Proceedings of the 12th International Workshop on the Algorithmic Foundations of Robotics (WAFR 2016)*.  
   \*these authors contributed equally  
@@ -81,7 +88,10 @@ sharing: false
 
 #### Non-refereed Publications
 
-* Hamrick, J. B. (in press). A Rejection Sampler. In M. DiBernardo & A. Brown (Eds.), *The Architecture of Open Source Applications, Volume 4: 500 Lines or Less*.  
+* Hamrick, J. B. (2017). Metareasoning and Mental Simulation (Ph.D. thesis).  
+  [[pdf](/publications/pdf/Hamrick2017-Metareasoning_and_mental_simulation.pdf)]
+
+* Hamrick, J. B. (2016). A Rejection Sampler. In M. DiBernardo & A. Brown (Eds.), *The Architecture of Open Source Applications, Volume 4: 500 Lines or Less*.  
   [[html](http://aosabook.org/en/500L/a-rejection-sampler.html)]
 
 * Hamrick, J. B. (2012). Physical Reasoning in Complex Scenes is Sensitive to Mass (Master’s thesis).  

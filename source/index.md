@@ -7,13 +7,15 @@ sharing: false
 
 <img src="/images/badge.jpg" style="float:right; margin: 1em 0em 2em 2em; width: 300px" />
 
-I am a PhD student at UC Berkeley in Tom Griffiths'
-[Computational Cognitive Science Lab][1]. Previously, I researched
+Beginning in November 2017, I am Research Scientist at [DeepMind][1].
+I completed my PhD in Psychology at UC Berkeley in Tom Griffiths'
+[Computational Cognitive Science Lab][2]. Before that, I researched
 intuitive physics in Josh Tenenbaum's
-[Computational Cognitive Science Group][2] at MIT.
+[Computational Cognitive Science Group][3] at MIT.
 
- [1]: http://cocosci.berkeley.edu/
- [2]: http://web.mit.edu/cocosci/
+ [1]: https://deepmind.com/
+ [2]: http://cocosci.berkeley.edu/
+ [3]: http://web.mit.edu/cocosci/
 
 I study human cognition by combining probabilistic models from machine learning
 with behavioral experiments from cognitive science. My [research](/research)
