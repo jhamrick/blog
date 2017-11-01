@@ -100,6 +100,10 @@ sharing: false
 
 #### Invited Talks
 
+* Hamrick, J. B. (2017, July). Metacontrol for Adaptive Imagination-Based Optimization. Presented at the Workshop on Deep Learning in Computational Cognitive Science, CogSci 2017. London, UK.
+
+* Hamrick, J. B. (2017, July). Think again? Adaptive allocation of resources for mental simulation. Presented at the Symposium on Bridging Levels of Analysis with Rational Process Models, MathPsych 2017. Coventry, UK.
+
 * Hamrick, J. B. (2016, October). Metareasoning and mental simulation. Stanford University. Palo Alto, CA.
 
 * Hamrick, J. B. (2015, December). Think again? Bounded optimality in decisions from internally generated evidence. Presented at the Bounded Optimality and Rational Metareasoning Workshop, NIPS 2015. Montreal, Canada.  
@@ -112,7 +116,15 @@ sharing: false
 
 #### Conference Presentations
 
-* Hamrick, J. B., Pascanu, R., Vinyals, O., Ballard, A., Heess, N., & Battaglia, P. W. (2016, December). Imagination-Based Decision Making with Physical Models in Deep Neural Networks. Talk and poster to be presented at the NIPS 2016 Workshop on Intuitive Physics. Barcelona, Spain.
+* Pacer, M, Avila, D., & Hamrick, J. B. (2017, August). The Jupyter notebook as document: from structure to application. Talk presented at JupyterCon 2017. New York, NY.
+
+* Hamrick, J. B., Bourgin, D. D., Langlois, T. A., & Griffiths, T. L. (2017, July). Exploring the inductive bias of visual scenes. Poster presented at the 39th Annual Conference of the Cognitive Science Society. London, UK.
+
+* Hamrick, J. B., Bussonnier, M., Frederic, J., Granger, B., Page, L., & Willing., C. (2017, July). nbgrader: A Tool for Creating and Grading Assignments in the Jupyter Notebook. Talk presented at SciPy 2017. Austin, TX.
+
+* Hamrick, J. B., Ballard, A. J., Pascanu, R., Vinyals, O., Heess, N., & Battaglia, P. W. (2017, April). Metacontrol for Adaptive Imagination-Based Optimization. Poster presented at the 5th International Conference on Learning Representations (ICLR 2017). Toulon, France.
+
+* Hamrick, J. B., Pascanu, R., Vinyals, O., Ballard, A., Heess, N., & Battaglia, P. W. (2016, December). Imagination-Based Decision Making with Physical Models in Deep Neural Networks. Talk and poster presented at the NIPS 2016 Workshop on Intuitive Physics. Barcelona, Spain.
 
 * Hamrick, J. B. and Griffiths, T. L. (2016, December). Metareasoning and mental simulation. Poster to be presented at the 11th Women in Machine Learning Workshop (WiML 2016). Barcelona, Spain.
 
