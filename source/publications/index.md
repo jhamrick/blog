@@ -5,11 +5,11 @@ layout: page
 sharing: false
 ---
 
-#### In Preparation, Under Review, or In Revision
+#### Preprints
 
-* Fisac, J. F., Gates, M. A., Hamrick, J. B., Liu, C., Hadfield-Menell, D., Palaniappan, M., Malik D., Sastry, S., Griffiths, T. L., & Dragan, A. D. (accepted). Pragmatic-Pedagogic Value Alignment. In *Proceedings of the International Symposium on Robotics Research* (ISRR 2017).  
-  [[arXiv](https://arxiv.org/abs/1707.06354)]
-  [[pdf](https://arxiv.org/pdf/1707.06354.pdf)]
+* Battaglia, P. W., Hamrick, J. B., Bapst, V., Sanchez-Gonzalez, A., Zambaldi, V., Malinowski, M., Tacchetti, A., Raposo, D., Santoro, A., Faulkner, R., Gulcehre, C., Song, F., Ballard, A., Gilmer, J., Dahl, G., Vaswani, A., Allen, K., Nash, C., Langston, V., Dyer, C., Heess, N., Wierstra, D., Kohli, P., Botvinick, M., Vinyals, O., Li, Y., & Pascanu, R. (2018). Relational inductive biases, deep learning, and graph networks. *arXiv preprint arXiv:1806.01261*.  
+  [[abstract](https://arxiv.org/abs/1806.01261)]
+  [[pdf](https://arxiv.org/pdf/1806.01261.pdf)]
 
 #### Journal Articles
 
@@ -34,6 +34,14 @@ sharing: false
   [Fast Company](http://www.fastcodesign.com/3022236/evidence/how-our-brains-play-angry-birds-with-the-world))
 
 #### Refereed Conference Proceedings
+
+* Hamrick\*, J. B., Allen\*, K. R., Bapst, V., Zhu, T., McKee, K. R., Tenenbaum, J. B., & Battaglia, P. W. (2018). Relational inductive bias for physical construction in humans and machines. In *Proceedings of the 40th Annual Conference of the Cognitive Science Society*. Austin, TX: Cognitive Science Society.  
+  [[arXiv](https://arxiv.org/abs/1806.01203)]
+  [[pdf](https://arxiv.org/pdf/1806.01203.pdf)]
+
+* Fisac, J. F., Gates, M. A., Hamrick, J. B., Liu, C., Hadfield-Menell, D., Palaniappan, M., Malik D., Sastry, S., Griffiths, T. L., & Dragan, A. D. (2017). Pragmatic-Pedagogic Value Alignment. In *Proceedings of the International Symposium on Robotics Research* (ISRR 2017). **Winner of the Computing Community Consortium Blue Sky Award**.   
+  [[arXiv](https://arxiv.org/abs/1707.06354)]
+  [[pdf](https://arxiv.org/pdf/1707.06354.pdf)]
 
 * Callaway, F., Hamrick, J. B., & Griffiths, T. L. (2017). Discovering simple heuristics from mental simulation. In G. Gunzelmann, A. Howes, T. Tenbrink, & E. J. Davelaar (Eds.), *Proceedings of the 39th Annual Conference of the Cognitive Science Society*. Austin, TX: Cognitive Science Society.  
   [[abstract](https://mindmodeling.org/cogsci2017/papers/0332/index.html)]
