@@ -13,8 +13,17 @@ sharing: false
 
 #### Journal Articles
 
+* Hamrick, J. B. (2019). Analogues of mental simulation and imagination in deep learning. *Current Opinion in Behavioral Sciences*, 29, 8—16. doi: [10.1016/j.cobeha.2018.12.011](https://doi.org/10.1016/j.cobeha.2018.12.011)  
+  [[pdf](/publications/pdf/Hamrick2019-Analogues_of_mental_simulation.pdf)]
+
+* Project Jupyter, Blank, B., Bourgin, D., Brown, A., Bussonnier, M., Frederic, J., Granger, B., Griffiths, T. L., Hamrick, J. B., Kelley, K., Pacer, M, Page, L., Pérez, F., Ragan-Kelley, B., Suchow, J. W., & Willing, C. (2019). nbgrader: A Tool for Creating and Grading Assignments in the Jupyter Notebook. *Journal of Open Source Education*, 2(11), 32. doi: [10.21105/jose.00032](https://doi.org/10.21105/jose.00032)  
+  [[pdf](https://www.theoj.org/jose-papers/jose.00032/10.21105.jose.00032.pdf)]
+  [[review](https://github.com/openjournals/jose-reviews/issues/32)]
+  [[source](https://github.com/jupyter/nbgrader/blob/master/paper/paper.md)]
+
 * Hamrick, J. B., Battaglia, P. W., Griffiths, T. L., & Tenenbaum, J. B. (2016). Inferring Mass in Complex Scenes by Mental Simulation. *Cognition*, 157, 61–76. doi: [10.1016/j.cognition.2016.08.012](http://doi.org/10.1016/j.cognition.2016.08.012)  
   [[pdf](/publications/pdf/Hamrick2016-Inferring_Mass_In_Complex_Scenes.pdf)]
+  [[project page](https://osf.io/y3vsf/)]
 
 * Gureckis, T. M., Martin, J., McDonnell, J., Alexander, R. S., Markant, D. B., Coenen, A., Hamrick, J. B., & Chan, P. (2015). psiTurk: An open-source framework for conducting replicable behavioral experiments online. *Behavioral Research Methods*.  doi: [10.3758/s13428-015-0642-8](http://dx.doi.org/10.3758/s13428-015-0642-8)  
   [[pdf](/publications/pdf/GureckisetalpsiTurk2015.pdf)]
@@ -25,8 +34,7 @@ sharing: false
 * Battaglia, P. W., Hamrick, J. B., & Tenenbaum, J. B. (2013). Simulation as an engine of physical scene understanding. *Proceedings of the National Academy of Sciences*, 110(45), 18327—18332.  doi: [10.1073/pnas.1306572110](http://dx.doi.org/10.1073/pnas.1306572110)  
   [[abstract](http://www.pnas.org/content/110/45/18327.abstract)]
   [[pdf+supplemental](/publications/pdf/Battaglia2013-Simulation_as_an_engine_of_physi.pdf)]
-  [[PNAS featured image](http://www.pnas.org/site/media/Featured_Image_stone.xhtml)]
-  [[project page](http://web.mit.edu/~pbatt/www/PNAS2013)]  
+  [[PNAS featured image](http://www.pnas.org/site/media/Featured_Image_stone.xhtml)]  
 
   (see also the popular science articles from
   [Scientific American](http://www.scientificamerican.com/article/the-video-game-engine-in-your-head)
@@ -46,6 +54,7 @@ sharing: false
 * Callaway, F., Hamrick, J. B., & Griffiths, T. L. (2017). Discovering simple heuristics from mental simulation. In G. Gunzelmann, A. Howes, T. Tenbrink, & E. J. Davelaar (Eds.), *Proceedings of the 39th Annual Conference of the Cognitive Science Society*. Austin, TX: Cognitive Science Society.  
   [[abstract](https://mindmodeling.org/cogsci2017/papers/0332/index.html)]
   [[pdf](/publications/pdf/Callaway2017-Discovering_simple_heuristics.pdf)]
+  [[project page](https://osf.io/ut3xp/)]
 
 * Hamrick, J. B., Ballard, A. J., Pascanu, R., Vinyals, O., Heess, N., & Battaglia, P. W. (2017). Metacontrol for Adaptive Imagination-Based Optimization. In *Proceedings of the 5th International Conference on Learning Representations* (ICLR 2017).  
   [[abstract](https://openreview.net/forum?id=Bk8BvDqex)]
@@ -108,6 +117,14 @@ sharing: false
 
 #### Invited Talks
 
+* Hamrick, J. B. (2018, October). nbgrader: A Tool for Creating and Grading Assignments in the Jupyter Notebook. Talk presented at PyData Paris. Paris, France.
+
+* Hamrick, J. B. (2018, July). Meta-reasoning for adaptive physical strategy selection and control. Presented at the Symposium for Strategies and Representations in Physical Inference, CogSci 2018. Madison, WI.
+
+* Hamrick, J. B. (2018, July). Structured Computation and Representation in Deep Reinforcement Learning. Presented at the Workshop on Prediction and Generative Modeling in Reinforcement Learning, ICML 2018. Stockholm, Sweden.
+
+* Hamrick, J. B. (2018, March). Metareasoning and mental simulation in humans and artificial agents. Presented at the Workshop on Model-Based Cognition: Hierarchical Reasoning and Sequential Planning, COSYNE 2018. Breckenridge, CO.
+
 * Hamrick, J. B. (2017, July). Metacontrol for Adaptive Imagination-Based Optimization. Presented at the Workshop on Deep Learning in Computational Cognitive Science, CogSci 2017. London, UK.
 
 * Hamrick, J. B. (2017, July). Think again? Adaptive allocation of resources for mental simulation. Presented at the Symposium on Bridging Levels of Analysis with Rational Process Models, MathPsych 2017. Coventry, UK.
@@ -123,6 +140,8 @@ sharing: false
 * Hamrick, J. B. (2015, November). Mental Simulation in Humans and Robots. Presented at the Algorithms for Human-Robot Interaction Workshop. Berkeley, CA.
 
 #### Conference Presentations
+
+* Hamrick\*, J. B., Allen\*, K. R., Bapst, V., Zhu, T., McKee, K. R., Tenenbaum, J. B., \& Battaglia, P. W. (2018, July). Relational inductive bias for physical construction in humans and machines. Poster to be presented at the 40th Annual Conference of the Cognitive Science Society. Austin, TX: Cognitive Science Society.
 
 * Pacer, M, Avila, D., & Hamrick, J. B. (2017, August). The Jupyter notebook as document: from structure to application. Talk presented at JupyterCon 2017. New York, NY.
 
