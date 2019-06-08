@@ -43,6 +43,10 @@ sharing: false
 
 #### Refereed Conference Proceedings
 
+* Bapst\*, V., Sanchez-Gonzalez\*, A., Doersch, C., Stachenfeld, K., Kohli, P., Battaglia, P. W., & Hamrick, J. B. (2019). Structured agents for physical construction. In *Proceedings of the International Conference on Machine Learning (ICML 2019)*.  
+  [[arXiv](https://arxiv.org/abs/1904.03177)]
+  [[pdf](https://arxiv.org/pdf/1904.03177.pdf)]
+
 * Hamrick\*, J. B., Allen\*, K. R., Bapst, V., Zhu, T., McKee, K. R., Tenenbaum, J. B., & Battaglia, P. W. (2018). Relational inductive bias for physical construction in humans and machines. In *Proceedings of the 40th Annual Conference of the Cognitive Science Society*. Austin, TX: Cognitive Science Society.  
   [[arXiv](https://arxiv.org/abs/1806.01203)]
   [[pdf](https://arxiv.org/pdf/1806.01203.pdf)]
@@ -117,7 +121,21 @@ sharing: false
 
 #### Invited Talks
 
-* Hamrick, J. B. (2018, October). nbgrader: A Tool for Creating and Grading Assignments in the Jupyter Notebook. Talk presented at PyData Paris. Paris, France.
+* Hamrick, J. B. (2019, May). nbgrader: A Tool for Creating and Grading Assignments in the Jupyter Notebook. Presented at the nbgrader Jupyter Community Workshop. Edinburgh, UK.
+
+* Hamrick, J. B. (2019, May). Construction as the manipulation of structure. Presented at the Workshop on Representation Learning for Graphs and Manifolds, ICLR 2019. New Orleans, LA, USA.  
+  [[video](https://slideslive.com/38915807/construction-as-the-manipulation-of-structure)]
+
+* Hamrick, J. B. (2019, May). Structured Computation and Representation in Deep Reinforcement Learning. Presented at the Workshop on Structured Prediction meets Deep Reinforcement Learning, ICLR 2019. New Orleans, LA, USA.  
+  [[video](https://slideslive.com/38915833/structured-computation-and-representation-in-deep-reinforcement-learning)]
+
+* Hamrick, J. B. (2019, April). Relational inductive bias, deep learning, and graph networks. Linear Accelerator Laboratory (LAL) Seminar Series. Paris, France.
+
+* Hamrick, J. B. (2019, April). Mental simulation, imagination, and model-based deep RL. Lecture for Stanford CS379. Palo Alto, CA.  
+  [[video](http://web.stanford.edu/class/cs379c/calendar_invited_talks/lectures/04/11/videos/CS379C_Jessica_Hamrick_Lecture_04-11-19.mp4)]
+  [[pdf slides](http://web.stanford.edu/class/cs379c/calendar_invited_talks/lectures/04/11/slides/CS379C_Jessica_Hamrick_Lecture_04-11-19.pdf)]
+
+* Hamrick, J. B. (2018, October). nbgrader: A Tool for Creating and Grading Assignments in the Jupyter Notebook. Presented at PyData Paris. Paris, France.
 
 * Hamrick, J. B. (2018, July). Meta-reasoning for adaptive physical strategy selection and control. Presented at the Symposium for Strategies and Representations in Physical Inference, CogSci 2018. Madison, WI.
 
@@ -141,23 +159,27 @@ sharing: false
 
 #### Conference Presentations
 
-* Hamrick\*, J. B., Allen\*, K. R., Bapst, V., Zhu, T., McKee, K. R., Tenenbaum, J. B., \& Battaglia, P. W. (2018, July). Relational inductive bias for physical construction in humans and machines. Poster to be presented at the 40th Annual Conference of the Cognitive Science Society. Austin, TX: Cognitive Science Society.
+* Bapst\*, V., Sanchez-Gonzalez\*, A., Doersch, C., Stachenfeld, K., Kohli, P., Battaglia, P. W., & Hamrick, J. B. (2019, June). Structured agents for physical construction. Talk and poster to be presented at ICML 2019. Long Beach, CA.
+
+* Hamrick\*, J. B., Allen\*, K. R., Bapst, V., Zhu, T., McKee, K. R., Tenenbaum, J. B., \& Battaglia, P. W. (2018, July). Relational inductive bias for physical construction in humans and machines. Poster presented at the 40th Annual Conference of the Cognitive Science Society. Austin, TX: Cognitive Science Society.
 
 * Pacer, M, Avila, D., & Hamrick, J. B. (2017, August). The Jupyter notebook as document: from structure to application. Talk presented at JupyterCon 2017. New York, NY.
 
 * Hamrick, J. B., Bourgin, D. D., Langlois, T. A., & Griffiths, T. L. (2017, July). Exploring the inductive bias of visual scenes. Poster presented at the 39th Annual Conference of the Cognitive Science Society. London, UK.
 
-* Hamrick, J. B., Bussonnier, M., Frederic, J., Granger, B., Page, L., & Willing., C. (2017, July). nbgrader: A Tool for Creating and Grading Assignments in the Jupyter Notebook. Talk presented at SciPy 2017. Austin, TX.
+* Hamrick, J. B., Bussonnier, M., Frederic, J., Granger, B., Page, L., & Willing., C. (2017, July). nbgrader: A Tool for Creating and Grading Assignments in the Jupyter Notebook. Talk presented at SciPy 2017. Austin, TX.  
+  [[video](https://www.youtube.com/watch?v=5WUm0QuJdFw)]
 
 * Hamrick, J. B., Ballard, A. J., Pascanu, R., Vinyals, O., Heess, N., & Battaglia, P. W. (2017, April). Metacontrol for Adaptive Imagination-Based Optimization. Poster presented at the 5th International Conference on Learning Representations (ICLR 2017). Toulon, France.
 
 * Hamrick, J. B., Pascanu, R., Vinyals, O., Ballard, A., Heess, N., & Battaglia, P. W. (2016, December). Imagination-Based Decision Making with Physical Models in Deep Neural Networks. Talk and poster presented at the NIPS 2016 Workshop on Intuitive Physics. Barcelona, Spain.
 
-* Hamrick, J. B. and Griffiths, T. L. (2016, December). Metareasoning and mental simulation. Poster to be presented at the 11th Women in Machine Learning Workshop (WiML 2016). Barcelona, Spain.
+* Hamrick, J. B. and Griffiths, T. L. (2016, December). Metareasoning and mental simulation. Poster presented at the 11th Women in Machine Learning Workshop (WiML 2016). Barcelona, Spain.
 
 * Suchow, J. W., Morgan, T. J. H., Hamrick, J. B., Pacer, M. D., Meylan, S. C., & Griffiths, T. L. (2016, August). Wallace: Automating Cultural Evolution Experiments Through Crowdsourcing. Tutorial presented at the 38th Annual Conference of the Cognitive Science Society. Philadelphia, PA.
 
-* Hamrick, J. B. (2016, July). Reproducible, One-Button Workflows with the Jupyter Notebook and SCons. Talk presented at SciPy 2016. Austin, TX.
+* Hamrick, J. B. (2016, July). Reproducible, One-Button Workflows with the Jupyter Notebook and SCons. Talk presented at SciPy 2016. Austin, TX.  
+  [[video](https://www.youtube.com/watch?v=Fc2W930NJs8)]
 
 * Hamrick, J. B. (2016, March). Creating and Grading Assignments in the IPython/Jupyter Notebook with nbgrader. Demo presented at SIGCSE 2016. Memphis, TN.  
   [<a href="http://jhamrick.github.io/sigcse-2016-slides" target="_blank">html slides</a> <img src="/images/external.png" alt="opens in new window" class="external" />]
