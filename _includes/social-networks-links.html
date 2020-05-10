@@ -228,4 +228,16 @@
   </li>
 {%- endif -%}
 
+{%- if site.social-network-links.scholar -%}
+  <li class="list-inline-item">
+    <a href="https://scholar.google.co.uk/citations?hl=en&user={{ site.social-network-links.scholar }}" title="Google Scholar">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-user-graduate fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Google Scholar</span>
+   </a>
+  </li>
+{%- endif -%}
+
 </ul>
